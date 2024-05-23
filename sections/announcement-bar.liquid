@@ -19,6 +19,7 @@
     svg.t4s-icon-arrow {
       width: 12px;display: inline-block;
     }
+    .t4s-pr svg path{    stroke: black;}
     .t4s-announcement-bar__item .t4s-icon-arrow {
       -webkit-transition: .2s ease-in-out;
       transition: -webkit-transform .2s ease-in-out,transform .2s ease-in-out;
@@ -29,7 +30,7 @@
     .t4s-announcement-bar .t4s-countdown-enabled {display: inline-block}
     .t4s-header__logo{margin-top:7px; display: flex; align-items: center;}
     .tag-line {margin-left:20px; color:#ffffff; font-size:14px;}
-    .t4s-announcement-bar .t4s-site-nav__icons svg.t4s-icon{color:#fff;}
+    .t4s-announcement-bar .t4s-site-nav__icons svg.t4s-icon{color:black;}
     @media (max-width: 767px) {
       .t4s-announcement-bar{padding-top:12px;}
       .t4s-header__logo{margin-top:0px;}
@@ -83,13 +84,11 @@
         {{- cap_btn | replace: 't4s-op-0', 't4s-z-100' | remove: ' t4s-d-none t4s-d-md-block' -}}
 
         <div class="t4s-col-lg-3 t4s-col-sm-6 t4s-col-md-8 t4s-col-6 t4s-text-end t4s-col-group_btns t4s-col-item t4s-lh-1">
-       {% comment %}   <a
-            style="color:#fff; font-size:14px; text-decoration:underline; margin-right:15px;"
+          {%- render 't4s_group_btns', section.settings:section.settings -%}
+       <a
+            style="color:black; font-size:14px; text-decoration:underline; margin-left:15px;"
             class="t4s-pr"
-            href="{{ routes.account_url }}"
-            {% unless customer or request.page_type contains 'customers' or settings.login_side == false %}
-              data-drawer-delay- data-drawer-options='{ "id":"#t4s-login-sidebar" }'
-            {% endunless %}
+            href="https://shopify.com/69415108905/account"
             role="button">Sign in
             <span style="margin-left: 20px; vertical-align: middle;">
               <svg xmlns="http://www.w3.org/2000/svg" width="19" height="25" viewBox="0 0 19 25" fill="none" role="presentation">
@@ -97,8 +96,8 @@
                 <path d="M9.24562 12.4736C12.2156 12.4736 14.6232 9.90517 14.6232 6.73681C14.6232 3.56846 12.2156 1 9.24562 1C6.27566 1 3.86804 3.56846 3.86804 6.73681C3.86804 9.90517 6.27566 12.4736 9.24562 12.4736Z" stroke="white" stroke-width="2" stroke-miterlimit="10"/>
                 <path d="M12.0717 8.63933C12.4511 8.23802 12.455 7.58372 12.0804 7.17792C11.7057 6.77212 11.0945 6.76848 10.715 7.1698L12.0717 8.63933ZM10.715 7.1698C9.81538 8.12133 8.35738 8.11377 7.45854 7.14014L6.08451 8.59342C7.72727 10.3729 10.4078 10.3992 12.0717 8.63933L10.715 7.1698Z" fill="white"/>
               </svg></span
-          ></a>{% endcomment %}
-          {%- render 't4s_group_btns', section.settings:section.settings -%}
+          ></a>
+          
         </div>
                   
       </div>
