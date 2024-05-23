@@ -265,7 +265,6 @@
           "1ba4b938-4484-4256-9fd2-1d3c7d58213f": {
             "type": "image",
             "settings": {
-              "image_child": "shopify:\/\/shop_images\/AO-Wordmark_O.png",
               "link_img": "",
               "img_width": 160,
               "img_width_mb": 120,
@@ -521,7 +520,7 @@
           "p strong {font-size: 18px; line-height: 1.4; font-weight: 800 !important;}"
         ],
         "settings": {
-          "show_topbar": true,
+          "show_topbar": false,
           "topbar_transparent": false,
           "height": 20,
           "fontsize": 15,
