@@ -513,7 +513,7 @@
         "mg_mb": "",
         "pd_mb": "",
         "use_cus_css": true,
-        "code_cus_css": ""
+        "code_cus_css": ".SectionID .t4s-subtitle{\n     color: #6aa3cd;\n    font-family: Kalam, sans-serif;\n    font-weight: 700;\n    font-style: normal;\n}"
       }
     },
     "1716519899642da806": {
