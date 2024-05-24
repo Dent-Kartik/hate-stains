@@ -1,0 +1,62 @@
+
+<style>
+  .skio-plan-picker-connector {
+    color: #000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    margin-bottom: 10px;
+  }
+
+  .skio-plan-picker-connector .skio-option {
+    padding: 5px;
+    border: 1px solid #000;
+    background-color: #fff;
+    transition: background-color 0.25s;
+    font-weight: 100;
+    cursor: pointer;
+  }
+
+  .skio-plan-picker-connector .skio-option:first-child {
+    margin-right: 10px;
+  }
+
+  .skio-plan-picker-connector .skio-option.selected {
+    background-color: rgba(0, 38, 77, 0.25);
+  }
+
+  .sticky-atc .product-quantityAndSize select {
+    margin-right: 0px !important;
+  }
+
+</style>
+
+{% assign key = 'skio-' | append: product.id %}
+<div class="skio-plan-picker-connector" skio-key="{{ key }}">
+  <div class="skio-option" skio-option-onetime onclick="updateSkioPlanPicker(this)">
+    Onetime
+  </div>
+  <div class="skio-option" skio-option-subscribe onclick="updateSkioPlanPicker(this)">
+    Subscribe
+  </div>
+</div>
+
+<script>
+
+  function updateSkioPlanPicker(el) {
+    let parent = el.parentNode;
+    parent.querySelectorAll(".skio-option").forEach(el => el.classList.remove("selected"));
+    el.classList.add("selected");
+    let skio = document.querySelector('[skio-plan-picker="{{ key }}"]');
+    if (skio) {
+      let onetime = el.hasAttribute('skio-option-onetime');
+      if (onetime) {
+        skio.querySelector('.skio-group-container--available[skio-group-container--onetime] .skio-group-input').click();
+      } else {
+        skio.querySelector('.skio-group-container--available[skio-group-container--subscribe] .skio-group-input').click();
+      }
+    }
+  }
+
+</script>
