@@ -1199,7 +1199,7 @@
         "mg_mb": ",,30px,",
         "pd_mb": "",
         "use_cus_css": true,
-        "code_cus_css": ".SectionID .t4s-iconbox-icon {\n    margin-right: 30px;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n}"
+        "code_cus_css": ".SectionID .t4s-iconbox-icon {\n    margin-right: 30px;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n}\n.SectionID .t4s-d-flex{\n    flex-direction: column;\n}"
       }
     },
     "video_slider_KRLUt4": {
