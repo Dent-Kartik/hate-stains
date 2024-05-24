@@ -4836,7 +4836,7 @@ footer .t4s-newsl-des-10 .t4s-newsletter__inner .t4s-newsletter__submit .t4s-new
     width: 40%!important;
 }
 }
-.collection-all #blockid_3,.collection-all #blockid_4{display:none;}
+/* .collection-all #blockid_3,.collection-all #blockid_4{display:none;}
 .t4s-post-item .t4s-post-title,.t4s-post-item .t4s-post-metas>span>span{color:#0B0F0E!important;}
 .t4s-blog-post .t4s-blog-button{align-self:center;}
 .t4s-blog-post .t4s-blog-button .t4s-blog-button-heading {
@@ -4844,7 +4844,7 @@ footer .t4s-newsl-des-10 .t4s-newsletter__inner .t4s-newsletter__submit .t4s-new
     border: 2px solid #1E4C2F!important;
   color:#1E4C2F!important;
     border-radius: 8px;
-}
+} */
 .t4s-product .t4s-product-price ins{color:#1D9E34!important;}
 
 @media (max-width:767px){
