@@ -1084,6 +1084,42 @@
         "code_cus_css": ".SectionID h3{\n     color: #6aa3cd;\n    font-family: Kalam, sans-serif;\n    font-weight: 700;\n    font-style: normal;\n}\n.SectionID ul li {\n    display: flex;\n}\n.SectionID .nasty-list li:before {\n  content: \"\";\n  display: inline-block;\n  height: 25px;\n  width: 25px;\n  background-image: url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/1180\/2404\/files\/cbimage_03aeb04d-efd9-46ce-a667-57d54abda14f.png?v=1716544808\");\n  background-size: contain;\n  background-repeat: no-repeat;\n  margin-right: 20px;\n}\n.SectionID .good-list li:before {\n  content: \"\";\n  display: inline-block;\n  height: 25px;\n  width: 25px;\n  background-image: url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/1180\/2404\/files\/cbimage_1_0b7278d9-09d5-4b87-af77-3b683d18278f.png?v=1716544808\");\n  background-size: contain;\n  background-repeat: no-repeat;\n  margin-right: 20px;\n}"
       }
     },
+    "top_heading_mXRpjW": {
+      "type": "top_heading",
+      "blocks": {
+        "bl_heading_UWPtj6": {
+          "type": "bl_heading",
+          "settings": {
+            "top_heading": "Put A Stop To Stubborn Stains"
+          }
+        },
+        "bl_subheading_cafkFN": {
+          "type": "bl_subheading",
+          "settings": {
+            "top_subheading": "In 3 Simple Steps"
+          }
+        }
+      },
+      "block_order": [
+        "bl_heading_UWPtj6",
+        "bl_subheading_cafkFN"
+      ],
+      "settings": {
+        "design_heading": "1",
+        "heading_align": "t4s-text-center",
+        "layout": "t4s-container-fluid",
+        "cl_bg": "#f8f5ef",
+        "cl_bg_gradient": "",
+        "mg": "",
+        "pd": "",
+        "mg_tb": "",
+        "pd_tb": "",
+        "mg_mb": "",
+        "pd_mb": "",
+        "use_cus_css": true,
+        "code_cus_css": ".t4s-subtitle{\n     color: #6aa3cd;\n    font-family: Kalam, sans-serif;\n    font-weight: 700;\n    font-style: normal;\n}"
+      }
+    },
     "iconbox_wGmx46": {
       "type": "iconbox",
       "blocks": {
@@ -1190,16 +1226,16 @@
         "cl_box_hover": "rgba(0,0,0,0)",
         "cl_content_hover": "#0d0d0d",
         "layout": "t4s-container-wrap",
-        "cl_bg": "",
+        "cl_bg": "#f8f5ef",
         "cl_bg_gradient": "",
         "mg": ",,50px,",
-        "pd": "",
+        "pd": "30px,0,50px,0",
         "mg_tb": "",
         "pd_tb": "",
         "mg_mb": ",,30px,",
-        "pd_mb": "",
+        "pd_mb": "30px,0,50px,0",
         "use_cus_css": true,
-        "code_cus_css": ".SectionID .t4s-iconbox-icon {\n    margin-right: 0px !important;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n}\n.SectionID .t4s-d-flex{\n    flex-direction: column;\n}"
+        "code_cus_css": ".SectionID .t4s-iconbox-icon {\n    margin-right: 0px !important;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n}\n.SectionID .t4s-d-flex{\n    flex-direction: column;\n}\n.t4s-iconbox-des p{\nfont-weight: 500;\n    font-size: 15px;\n    color: #00264d;\n    line-height: 1.5;\n}"
       }
     },
     "video_slider_KRLUt4": {
@@ -1506,6 +1542,7 @@
     "b8f1ee29-d27d-447d-b278-0ff05615f8e8",
     "top_heading_dtwGDj",
     "custom_section_QzcNTj",
+    "top_heading_mXRpjW",
     "iconbox_wGmx46",
     "video_slider_KRLUt4",
     "7f6dbb86-18ab-4678-82da-9c175a851438",
