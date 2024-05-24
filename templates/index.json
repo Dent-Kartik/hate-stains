@@ -1186,7 +1186,7 @@
         "cl_head": "#0d0d0d",
         "cl_icon": "#222222",
         "cl_des": "#0d0d0d",
-        "cl_box": "#ffffff",
+        "cl_box": "rgba(0,0,0,0)",
         "cl_box_hover": "rgba(0,0,0,0)",
         "cl_content_hover": "#0d0d0d",
         "layout": "t4s-container-wrap",
