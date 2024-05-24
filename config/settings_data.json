@@ -1900,7 +1900,7 @@
           "cl_hc": "#ffffff",
           "sticky_header": true,
           "scroll_header": true,
-          "bgnavst": "#9dd6d1",
+          "bgnavst": "#ffffff",
           "opnavst": 100,
           "clnavst": "#222222",
           "clnavst_hover": "#56cfe1",
