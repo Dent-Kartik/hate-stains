@@ -5,7 +5,7 @@
     "home_keywords": "",
     "shop_author": "Thrasio",
     "use_rtl": "0",
-    "header_design": "sidebar",
+    "header_design": "inline",
     "logo": "shopify:\/\/shop_images\/The_Hate_Stains_Co_Logo_Stacked_No_LineTest.png",
     "logo_width": 100,
     "logos": "shopify:\/\/shop_images\/The_Hate_Stains_Co_Logo_Stacked_No_LineTest.png",
@@ -522,9 +522,9 @@
             "type": "drop",
             "settings": {
               "title": "SHOP",
-              "url": "shopify:\/\/collections\/odor-stain-removers",
+              "url": "shopify:\/\/collections\/all-collection",
               "open_link": "_self",
-              "menu": "shop",
+              "menu": "kalles-menu",
               "icon": "",
               "cus_cl": false,
               "cl": "#ec0101",
@@ -534,52 +534,10 @@
               "pos_sub": "bottom",
               "pos": "left"
             }
-          },
-          "7be36556-8f02-4ac7-9abc-7de59e33c050": {
-            "type": "base",
-            "settings": {
-              "title": "ABOUT US",
-              "url": "https:\/\/angryorange.com\/pages\/about-us",
-              "open_link": "_self",
-              "icon": "",
-              "cus_cl": false,
-              "cl": "#ec0101",
-              "lb": "",
-              "lb_cl": ""
-            }
-          },
-          "base_9MDtLi": {
-            "type": "base",
-            "settings": {
-              "title": "BLOG",
-              "url": "https:\/\/angryorange.com\/blogs\/news",
-              "open_link": "_self",
-              "icon": "",
-              "cus_cl": false,
-              "cl": "#ec0101",
-              "lb": "",
-              "lb_cl": ""
-            }
-          },
-          "base_GqR7dq": {
-            "type": "base",
-            "settings": {
-              "title": "CONTACT US",
-              "url": "https:\/\/angryorange.com\/pages\/contact-us",
-              "open_link": "_self",
-              "icon": "",
-              "cus_cl": false,
-              "cl": "#ec0101",
-              "lb": "",
-              "lb_cl": ""
-            }
           }
         },
         "block_order": [
-          "drop_UJtWkH",
-          "7be36556-8f02-4ac7-9abc-7de59e33c050",
-          "base_9MDtLi",
-          "base_GqR7dq"
+          "drop_UJtWkH"
         ],
         "custom_css": [
           ".t4s-site-nav__icons svg.t4s-icon {color: #bb3b00;}"
