@@ -247,7 +247,7 @@
         "image_ratio": "ratio1_1",
         "image_size": "cover",
         "image_position": "7",
-        "content_align": "center",
+        "content_align": "default",
         "limit": 50,
         "enable_listing": true,
         "enable_listing_default": false,
