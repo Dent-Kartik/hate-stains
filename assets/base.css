@@ -4941,3 +4941,6 @@ i.fas.fa-shopping-bag.t4s-icon.t4s-icon--account,i.fa-solid.fa-circle-user.t4s-i
 .hiddennav {
     display: none
 }
+.opw-leading-normal, .opw-font-medium opw-carousel-prodname {
+    font-size: 22px;
+}
