@@ -144,7 +144,7 @@
           "b3c6ceca-2d54-4a14-b482-bb86cbf25f08": {
             "type": "copyR",
             "settings": {
-              "text": "<span class=\"t4s-cp\">© Angry Orange [year]. All Rights Reserved<\/span>",
+              "text": "<span class=\"t4s-cp\">©  The Hate Stains Co [year]. All Rights Reserved<\/span>",
               "mgb": 0,
               "mgb_mb": 0
             }
@@ -277,7 +277,7 @@
           "6a37dfd9-7f2c-4ef6-baab-2bc5ed4913cf": {
             "type": "custom_text",
             "settings": {
-              "text": "Angry Orange got its start fighting off industrial-sized stink from feedlots, sludge ponds, and boarding kennels. Now, we're hellbent on making your home fresh and clean. We help you spend more time with your family and less time cleaning up after them.",
+              "text": "dummy text",
               "remove_br_tag": false,
               "tag": "p",
               "fontf": "inherit",
@@ -971,7 +971,7 @@
             "type": "menu",
             "settings": {
               "title": "Contact Us",
-              "url": "https:\/\/angryorange.com\/pages\/contact-us",
+              "url": "https:\/\/hatestains.com\/pages\/contact-us",
               "open_link": "_self",
               "menu": "",
               "lb": "",
