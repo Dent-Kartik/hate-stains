@@ -221,31 +221,31 @@
           "type": "tab_html",
           "settings": {
             "title": "DESCRIPTION",
-            "content": "",
+            "content": "{{ product.metafields.custom.description | metafield_tag }}",
             "page": ""
           }
         },
         "tab_html_NPT9gd": {
           "type": "tab_html",
           "settings": {
-            "title": "KEY FEATURES",
-            "content": "",
+            "title": "Our Formula",
+            "content": "{{ product.metafields.custom.our_formula | metafield_tag }}",
             "page": ""
           }
         },
         "tab_html_naUqDf": {
           "type": "tab_html",
           "settings": {
-            "title": "GUN COMPATIBILITY",
-            "content": "",
+            "title": "Care Instructions",
+            "content": "{{ product.metafields.custom.care_instructions | metafield_tag }}",
             "page": ""
           }
         },
         "tab_html_w3U8Fh": {
           "type": "tab_html",
           "settings": {
-            "title": "SIZING CHART",
-            "content": "",
+            "title": "Ingredients & Safety Info",
+            "content": "{{ product.metafields.custom.ingredients_amp_safety_info | metafield_tag }}",
             "page": ""
           }
         },
@@ -959,6 +959,8 @@
         "top_heading": "Featured Blogs",
         "icon_heading": "las la-gem",
         "top_subheading": "",
+        "blog_btn": "",
+        "bt_lb": "Button label",
         "tophead_mb": 30,
         "post_des": "1",
         "show_cate": false,
