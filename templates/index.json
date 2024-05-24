@@ -1081,7 +1081,7 @@
         "mg_mb": ",,30px,",
         "pd_mb": "",
         "use_cus_css": true,
-        "code_cus_css": ".SectionID h3{\n     color: #6aa3cd;\n    font-family: Kalam, sans-serif;\n    font-weight: 700;\n    font-style: normal;\n}\n.SectionID .nasty-list li:before {\n  content: \"\";\n  display: inline-block;\n  height: 25px;\n  width: 25px;\n  background-image: url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/1180\/2404\/files\/cbimage_03aeb04d-efd9-46ce-a667-57d54abda14f.png?v=1716544808\");\n  background-size: contain;\n  background-repeat: no-repeat;\n  margin-right: 20px;\n}\n.SectionID .good-list li:before {\n  content: \"\";\n  display: inline-block;\n  height: 25px;\n  width: 25px;\n  background-image: url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/1180\/2404\/files\/cbimage_1_0b7278d9-09d5-4b87-af77-3b683d18278f.png?v=1716544808\");\n  background-size: contain;\n  background-repeat: no-repeat;\n  margin-right: 20px;\n}"
+        "code_cus_css": ".SectionID h3{\n     color: #6aa3cd;\n    font-family: Kalam, sans-serif;\n    font-weight: 700;\n    font-style: normal;\n}\n.SectionID ul li {\n    display: flex;\n}\n.SectionID .nasty-list li:before {\n  content: \"\";\n  display: inline-block;\n  height: 25px;\n  width: 25px;\n  background-image: url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/1180\/2404\/files\/cbimage_03aeb04d-efd9-46ce-a667-57d54abda14f.png?v=1716544808\");\n  background-size: contain;\n  background-repeat: no-repeat;\n  margin-right: 20px;\n}\n.SectionID .good-list li:before {\n  content: \"\";\n  display: inline-block;\n  height: 25px;\n  width: 25px;\n  background-image: url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/1180\/2404\/files\/cbimage_1_0b7278d9-09d5-4b87-af77-3b683d18278f.png?v=1716544808\");\n  background-size: contain;\n  background-repeat: no-repeat;\n  margin-right: 20px;\n}"
       }
     },
     "iconbox_wGmx46": {
@@ -1199,7 +1199,7 @@
         "mg_mb": ",,30px,",
         "pd_mb": "",
         "use_cus_css": true,
-        "code_cus_css": "{\n    flex-direction: column;\n}"
+        "code_cus_css": ".SectionID .t4s-iconbox-icon {\n    margin-right: 30px;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n}"
       }
     },
     "video_slider_KRLUt4": {
