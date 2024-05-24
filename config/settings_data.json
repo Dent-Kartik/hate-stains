@@ -18,8 +18,8 @@
     "only_icon": true,
     "heading_color": "#0d0d0d",
     "text_color": "#00264d",
-    "accent_color": "#e1713d",
-    "secondary_color": "#bb3b00",
+    "accent_color": "#00264d",
+    "secondary_color": "#0d0d0d",
     "border_color": "#9b9a96",
     "border_primary_color": "#0d0d0d",
     "price_primary": "#0d0d0d",
@@ -248,162 +248,42 @@
           "footer-8": {
             "type": "bl_col",
             "settings": {
-              "col_heading": "",
-              "menu": "",
-              "menu_style": "1",
-              "col_border": "none",
-              "col_dk": "3",
-              "col_tb": "6",
-              "col_mb": "12",
-              "content_align": "t4s-text-md-start",
-              "padding_inner": "5px,0,0,0",
-              "content_align_tb": "t4s-text-md-start",
-              "padding_inner_tb": "",
-              "col_heading_mobile": "",
-              "content_align_mb": "t4s-text-start",
-              "padding_inner_mb": ""
-            }
-          },
-          "1ba4b938-4484-4256-9fd2-1d3c7d58213f": {
-            "type": "image",
-            "settings": {
-              "link_img": "",
-              "img_width": 160,
-              "img_width_mb": 120,
-              "mgb": 20,
-              "mgb_mb": 20
-            }
-          },
-          "6a37dfd9-7f2c-4ef6-baab-2bc5ed4913cf": {
-            "type": "custom_text",
-            "settings": {
-              "text": "dummy text",
-              "remove_br_tag": false,
-              "tag": "p",
-              "fontf": "inherit",
-              "text_cl": "#0b0f0e",
-              "text_fs": 16,
-              "text_lh": 26,
-              "text_fw": 500,
-              "text_ls": 0,
-              "font_italic": false,
-              "text_shadow": false,
-              "text_mgb": 15,
-              "hidden_mobile": false,
-              "text_fs_mb": 18,
-              "text_lh_mb": 28,
-              "text_ls_mb": 0,
-              "text_mgb_mobile": 10
-            }
-          },
-          "18833cd0-cfef-4607-abd0-ae141bd0fd41": {
-            "type": "bl_col",
-            "settings": {
-              "col_heading": "",
-              "menu": "",
-              "menu_style": "1",
-              "col_border": "none",
-              "col_dk": "16",
-              "col_tb": "0",
-              "col_mb": "12",
-              "content_align": "t4s-text-md-start",
-              "padding_inner": "5px,0,0,0",
-              "content_align_tb": "t4s-text-md-start",
-              "padding_inner_tb": "",
-              "col_heading_mobile": "",
-              "content_align_mb": "t4s-text-start",
-              "padding_inner_mb": ""
-            }
-          },
-          "footer-4": {
-            "type": "bl_col",
-            "settings": {
-              "col_heading": "MORE",
+              "col_heading": "Stain Solutions For A Messy World",
               "menu": "footer",
-              "menu_style": "1",
+              "menu_style": "2",
               "col_border": "none",
-              "col_dk": "15",
-              "col_tb": "6",
+              "col_dk": "12",
+              "col_tb": "12",
               "col_mb": "12",
-              "content_align": "t4s-text-md-start",
+              "content_align": "t4s-text-lg-center",
               "padding_inner": "5px,0,0,0",
-              "content_align_tb": "t4s-text-md-start",
+              "content_align_tb": "t4s-text-md-center",
               "padding_inner_tb": "",
               "col_heading_mobile": "",
               "content_align_mb": "t4s-text-start",
               "padding_inner_mb": ""
             }
           },
-          "footer-10": {
+          "bl_col_nQWB9k": {
             "type": "bl_col",
             "settings": {
-              "col_heading": "CONTACT US",
+              "col_heading": "",
               "menu": "",
-              "menu_style": "1",
+              "menu_style": "2",
               "col_border": "none",
-              "col_dk": "15",
-              "col_tb": "6",
+              "col_dk": "12",
+              "col_tb": "12",
               "col_mb": "12",
-              "content_align": "t4s-text-lg-start",
-              "padding_inner": "5px,0,0,0",
-              "content_align_tb": "t4s-text-md-start",
-              "padding_inner_tb": "",
-              "col_heading_mobile": "",
-              "content_align_mb": "t4s-text-start",
-              "padding_inner_mb": ""
-            }
-          },
-          "html_pU73Rw": {
-            "type": "html",
-            "settings": {
-              "html_content": "<strong>Address:<\/strong> <span>85 West Street, Suite 4\nWalpole, MA 02081<\/span><br><strong>Email us:<\/strong> <a href=\"mailTo:info@hatestains.com\">sinfo@hatestains.com<\/a>",
-              "hidden_mobile": false
-            }
-          },
-          "d319ce19-e078-4958-b353-44ba66439d6f": {
-            "type": "custom_text",
-            "disabled": true,
-            "settings": {
-              "text": "Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals.",
-              "remove_br_tag": false,
-              "tag": "p",
-              "fontf": "inherit",
-              "text_cl": "#ffffff",
-              "text_fs": 16,
-              "text_lh": 22,
-              "text_fw": 400,
-              "text_ls": 0,
-              "font_italic": false,
-              "text_shadow": false,
-              "text_mgb": 15,
-              "hidden_mobile": false,
-              "text_fs_mb": 16,
-              "text_lh_mb": 24,
-              "text_ls_mb": 0,
-              "text_mgb_mobile": 10
-            }
-          },
-          "91fda933-0e19-49b6-9810-b031e272d0cf": {
-            "type": "bl_col",
-            "disabled": true,
-            "settings": {
-              "col_heading": "Information",
-              "menu": "",
-              "menu_style": "1",
-              "col_border": "none",
-              "col_dk": "15",
-              "col_tb": "6",
-              "col_mb": "12",
-              "content_align": "t4s-text-lg-start",
+              "content_align": "t4s-text-lg-center",
               "padding_inner": "",
-              "content_align_tb": "t4s-text-md-start",
+              "content_align_tb": "t4s-text-md-center",
               "padding_inner_tb": "",
               "col_heading_mobile": "",
               "content_align_mb": "t4s-text-start",
               "padding_inner_mb": ""
             }
           },
-          "cus_socials_nmqzeq": {
+          "cus_socials_r4DzVA": {
             "type": "cus_socials",
             "settings": {
               "title": "",
@@ -415,23 +295,16 @@
               "icon_cl": "#878787",
               "bg_cl": "#222222",
               "space_h_item": "5",
-              "space_v_item": "30",
+              "space_v_item": "5",
               "space_h_item_mb": "2",
-              "space_v_item_mb": "30"
+              "space_v_item_mb": "2"
             }
           }
         },
         "block_order": [
           "footer-8",
-          "1ba4b938-4484-4256-9fd2-1d3c7d58213f",
-          "6a37dfd9-7f2c-4ef6-baab-2bc5ed4913cf",
-          "18833cd0-cfef-4607-abd0-ae141bd0fd41",
-          "footer-4",
-          "footer-10",
-          "html_pU73Rw",
-          "d319ce19-e078-4958-b353-44ba66439d6f",
-          "91fda933-0e19-49b6-9810-b031e272d0cf",
-          "cus_socials_nmqzeq"
+          "bl_col_nQWB9k",
+          "cus_socials_r4DzVA"
         ],
         "custom_css": [
           "#ot-sdk-btn.ot-sdk-show-settings {color: black !important; border: none; font-weight: 600; padding: 0px !important;}"

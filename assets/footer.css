@@ -29,7 +29,7 @@ h3.t4s-section-title.t4s-title {
 	padding: 0;
 	margin: 0;
 	list-style: none;
-    text-align: left;
+    /* text-align: left; */
     margin-bottom: 15px;
 }
 .t4s_nt_se_bottom-bar .t4s-footer-menu ul {
