@@ -99,15 +99,15 @@
     "share_tumblr": true,
     "share_telegram": true,
     "share_whatsapp": false,
-    "social_facebook_link": "https:\/\/www.facebook.com\/AngryOrangeForPets\/",
+    "social_facebook_link": "https:\/\/www.facebook.com\/HateStains\/",
     "social_twitter_link": "",
-    "social_instagram_link": "https:\/\/www.instagram.com\/angryorangeforpets\/",
+    "social_instagram_link": "https:\/\/www.instagram.com\/hatestainsco\/",
     "social_dribbble_link": "",
     "social_linkedin_link": "",
-    "social_pinterest_link": "https:\/\/nl.pinterest.com\/AngryOrangeUSA\/",
+    "social_pinterest_link": "",
     "social_tumblr_link": "",
     "social_snapchat_link": "",
-    "social_youtube_link": "https:\/\/www.youtube.com\/channel\/UCItYyGY9ANPtM3QXgQrOmIw",
+    "social_youtube_link": "",
     "social_vimeo_link": "",
     "social_behance_link": "",
     "social_soundcloud_link": "",
@@ -356,7 +356,7 @@
           "html_pU73Rw": {
             "type": "html",
             "settings": {
-              "html_content": "<strong>Call us at:<\/strong> <a href=\"tel:(877)%20873-5402\">(877) 873-5402<\/a> <br><strong>Email us:<\/strong> <a href=\"mailTo:support@angryorange.com\">support@angryorange.com<\/a>",
+              "html_content": "<strong>Address:<\/strong> <span>85 West Street, Suite 4\nWalpole, MA 02081<\/span><br><strong>Email us:<\/strong> <a href=\"mailTo:info@hatestains.com\">sinfo@hatestains.com<\/a>",
               "hidden_mobile": false
             }
           },
@@ -2187,6 +2187,7 @@
         "blocks": {
           "custom_text_kBckMm": {
             "type": "custom_text",
+            "disabled": true,
             "settings": {
               "text": "Subscribe & get 20% off your first order!",
               "remove_br_tag": false,
