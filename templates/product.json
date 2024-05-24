@@ -42,43 +42,6 @@
           "settings": {
           }
         },
-        "description": {
-          "type": "description",
-          "disabled": true,
-          "settings": {
-            "des": "2",
-            "text": "",
-            "length": 31,
-            "readm": true,
-            "readm_txt": "Read more"
-          }
-        },
-        "152e7505-1077-4ecb-956c-1f52beee2fd8": {
-          "type": "countdown",
-          "disabled": true,
-          "settings": {
-            "source": "1",
-            "icon": "3",
-            "icon_name": "las la-stopwatch",
-            "ani": "none",
-            "al": "start",
-            "mess": "Free shipping on ALL orders",
-            "size": 16,
-            "dayx": 1,
-            "stock_time": "8:00:00,16:00:00,23:59:59",
-            "loop": true,
-            "cdt_des": "1",
-            "cdt_size": "small",
-            "box_bdr": 10,
-            "bd_width": 0,
-            "space_item": 8,
-            "space_item_mb": 8,
-            "number_cl": "#f4dd4a",
-            "text_cl": "#000f41",
-            "border_cl": "#000000",
-            "bg_cl": "#000f41"
-          }
-        },
         "price_review": {
           "type": "price_review",
           "settings": {
@@ -91,28 +54,6 @@
             "fw_price_pr": 700,
             "price_color": "#000000",
             "price_sale_color": "#1d9e34"
-          }
-        },
-        "33baad01-228a-4fde-8fb8-5af287b996d8": {
-          "type": "inventory_qty",
-          "disabled": true,
-          "settings": {
-            "icon": "1",
-            "icon_name": "hourglass-half",
-            "ani": "none",
-            "stock": "3",
-            "qty": 10,
-            "total_items": 100,
-            "stock_from": 12,
-            "stock_to": 20,
-            "al": "start",
-            "mess": "Only [stock_number] left!",
-            "size": 30,
-            "progress": true,
-            "wbar": 100,
-            "stock_bg_process": "#56cfe1",
-            "bgten": "#ec0101",
-            "stock_bg": "#effffe"
           }
         },
         "custom_liquid_kQdCKR": {
@@ -280,10 +221,7 @@
         "title",
         "meta",
         "46f48626-36c1-4c15-85cf-3ae47a93c16e",
-        "description",
-        "152e7505-1077-4ecb-956c-1f52beee2fd8",
         "price_review",
-        "33baad01-228a-4fde-8fb8-5af287b996d8",
         "custom_liquid_kQdCKR",
         "form",
         "07bfb470-16c0-49ab-94f8-3c128655bc98",
@@ -299,7 +237,8 @@
         "tab_html_gnhVpi"
       ],
       "custom_css": [
-        ".t4s-tab-wrapper {font-weight: 500; margin-bottom: 10px;}"
+        ".t4s-tab-wrapper {font-weight: 500; margin-bottom: 10px;}",
+        ".t4s-product__info-container .t4s-product-price {margin-bottom: 20px;}"
       ],
       "settings": {
         "pr_layout": "default",
