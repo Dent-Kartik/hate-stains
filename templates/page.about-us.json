@@ -362,7 +362,7 @@
         "cl_des": "#00264d",
         "cl_box": "rgba(0,0,0,0)",
         "cl_box_hover": "rgba(0,0,0,0)",
-        "cl_content_hover": "rgba(0,0,0,0)",
+        "cl_content_hover": "#00264d",
         "layout": "t4s-container-wrap",
         "cl_bg": "#f8f5ef",
         "cl_bg_gradient": "",
