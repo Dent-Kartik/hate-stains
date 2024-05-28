@@ -171,11 +171,11 @@
             "newl_size": "small",
             "btn_icon": false,
             "input_cl": "#878787",
-            "border_cl": "#000",
+            "border_cl": "#000000",
             "btn_cl": "#ffffff",
             "btn_bg_cl": "#222222",
             "btn_hover_cl": "#ffffff",
-            "btn_hover_bg_cl": "#56CFE1",
+            "btn_hover_bg_cl": "#56cfe1",
             "hidden_mobile": false,
             "mgb": 15,
             "mgb_mb": 10
@@ -235,6 +235,7 @@
             "icon_pos": "start",
             "icon": "las la-gem",
             "icon_awesome_fs": 50,
+            "image_icon": "shopify:\/\/shop_images\/Treat-Color_d510782f-c555-4fbf-831f-8d854599a9d3.png",
             "icon_image_width": 0,
             "img_svg": "",
             "w_image_svg": 60,
@@ -321,9 +322,9 @@
         "enable_shadow": false,
         "cl_border": "#f6f6f8",
         "cl_head": "#00264d",
-        "cl_icon": "#222",
+        "cl_icon": "#222222",
         "cl_des": "#00264d",
-        "cl_box": "#fff",
+        "cl_box": "#ffffff",
         "cl_box_hover": "rgba(0,0,0,0)",
         "cl_content_hover": "#00264d",
         "layout": "t4s-container-wrap",
@@ -335,8 +336,8 @@
         "pd_tb": "",
         "mg_mb": ",,30px,",
         "pd_mb": "",
-        "use_cus_css": false,
-        "code_cus_css": ""
+        "use_cus_css": true,
+        "code_cus_css": ".SectionID .t4s-iconbox-icon {\n    margin-right: 0px !important;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n}\n.SectionID .t4s-d-flex{\n    flex-direction: column;\n}\n.t4s-iconbox-des p{\nfont-weight: 500;\n    font-size: 15px;\n    color: #00264d;\n    line-height: 1.5;\n}"
       }
     },
     "accordion_Y8y3aE": {
