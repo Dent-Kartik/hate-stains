@@ -751,7 +751,6 @@
     },
     "9f87910c-c229-4870-a34d-b30c3e3613f4": {
       "type": "hero_image",
-      "disabled": true,
       "settings": {
         "se_height": "t4s_ratioadapt",
         "custom_dk": true,
@@ -760,6 +759,7 @@
         "height_tb": 400,
         "custom_mb": true,
         "height_mb": 250,
+        "image": "shopify:\/\/shop_images\/HSN_MM_MS_4oz_B0CSTB76TW_AMZ_US_APC_042224Module-3.png",
         "parallax": false,
         "image_position": "0",
         "link_img1": "",
