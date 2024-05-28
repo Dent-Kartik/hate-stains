@@ -760,7 +760,7 @@
         "bg_title_cl": "#f6f6f8",
         "title_active_cl": "#000000",
         "bg_title_active_cl": "#f6f6f8",
-        "content_cl": "#878787",
+        "content_cl": "#00264d",
         "bg_content_cl": "#ffffff",
         "content_align": "t4s-text-start",
         "auto_active": true,
