@@ -88,6 +88,7 @@
         <a
             style="color:black; font-size:14px; text-decoration:underline; margin-left:15px;"
             class="t4s-pr"
+          id="header-account"
             href="{{ routes.account_url }}"{% unless customer or request.page_type contains 'customers' or settings.login_side == false %} data-drawer-delay- data-drawer-options='{ "id":"#t4s-login-sidebar" }' {% endunless %} aria-label="Account" role="button">Sign in
             <span style="margin-left: 20px; vertical-align: middle;">
               <svg xmlns="http://www.w3.org/2000/svg" width="19" height="25" viewBox="0 0 19 25" fill="none"  aria-hidden="true" focusable="false" role="presentation">
