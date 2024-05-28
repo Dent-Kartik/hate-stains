@@ -6,10 +6,11 @@
         "164602873867eb3815-0": {
           "type": "image_parent",
           "settings": {
-            "image": "shopify:\/\/shop_images\/HSM_Storefront_Bundles-Page_041924_crop_1.jpg",
+            "image": "shopify:\/\/shop_images\/HSN_MM_4oz_Module5_B091DSK7NN_US_Prem_APC_112723.png",
+            "image_mb": "shopify:\/\/shop_images\/HSN_MM_4oz_Module5_mobile_B091DSK7NN_US_Prem_APC_112723.png",
             "image_position": "9",
             "cl_img": "#ffffff",
-            "link_img1": "shopify:\/\/collections",
+            "link_img1": "shopify:\/\/collections\/all",
             "open_link": "_self",
             "animate_slide": "none",
             "text_align": "start",
