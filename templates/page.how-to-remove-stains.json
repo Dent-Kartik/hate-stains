@@ -8,7 +8,7 @@
           "settings": {
             "heading": "",
             "fontf": "inherit",
-            "text_cl": "#ffffff",
+            "text_cl": "#00264d",
             "text_fs": 20,
             "text_lh": 20,
             "text_fw": 500,
@@ -24,17 +24,31 @@
             "text_mgb_mobile": 10
           }
         },
-        "cc993342-0dd0-41d6-a6c4-a5f3c87e6f96": {
-          "type": "3",
+        "2_DeLaCa": {
+          "type": "2",
           "settings": {
-            "breadcrumb_color": "#f2f2f2",
-            "brc_mgb": 5
+            "content": "<p>Getting rid of stains should be as easy as making them. <\/p>",
+            "fontf": "inherit",
+            "text_cl": "#00264d",
+            "text_fs": 24,
+            "text_lh": 26,
+            "text_fw": 500,
+            "text_ls": 0,
+            "font_italic": false,
+            "font_uppercase": false,
+            "text_shadow": false,
+            "text_mgb": 0,
+            "hidden_mobile": false,
+            "text_fs_mb": 16,
+            "text_lh_mb": 0,
+            "text_ls_mb": 0,
+            "text_mgb_mobile": 0
           }
         }
       },
       "block_order": [
         "18952756-58af-4afa-a0cc-b1b54300fb8b",
-        "cc993342-0dd0-41d6-a6c4-a5f3c87e6f96"
+        "2_DeLaCa"
       ],
       "settings": {
         "heading_fullwidth": false,
