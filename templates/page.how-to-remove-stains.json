@@ -82,131 +82,6 @@
         "sidebar_pd": 10
       }
     },
-    "custom_section_JzBgt6": {
-      "type": "custom-section",
-      "blocks": {
-        "bl_col_PUpURP": {
-          "type": "bl_col",
-          "settings": {
-            "col_dk": "6",
-            "col_tb": "6",
-            "col_mb": "12",
-            "align_vertical": false,
-            "content_align": "center",
-            "content_align_tablet": "center",
-            "content_align_mobile": "center",
-            "padding_inner": "30px,,30px",
-            "padding_inner_tb": "",
-            "padding_inner_mb": "",
-            "bg_cl": "#d2a2a2"
-          }
-        },
-        "custom_text_TBFQTN": {
-          "type": "custom_text",
-          "settings": {
-            "text": "LOOKBOOK 2023",
-            "remove_br_tag": false,
-            "tag": "p",
-            "fontf": "inherit",
-            "text_cl": "#000000",
-            "text_fs": 24,
-            "text_lh": 0,
-            "text_fw": 500,
-            "text_ls": 0,
-            "font_italic": false,
-            "text_shadow": false,
-            "text_mgb": 5,
-            "hidden_mobile": false,
-            "text_fs_mb": 16,
-            "text_lh_mb": 0,
-            "text_ls_mb": 0,
-            "text_mgb_mobile": 10
-          }
-        },
-        "custom_text_KyVzaY": {
-          "type": "custom_text",
-          "settings": {
-            "text": "MAKE LOVE THIS LOOK",
-            "remove_br_tag": false,
-            "tag": "p",
-            "fontf": "inherit",
-            "text_cl": "#000000",
-            "text_fs": 14,
-            "text_lh": 24,
-            "text_fw": 400,
-            "text_ls": 0,
-            "font_italic": false,
-            "text_shadow": false,
-            "text_mgb": 0,
-            "hidden_mobile": false,
-            "text_fs_mb": 16,
-            "text_lh_mb": 0,
-            "text_ls_mb": 0,
-            "text_mgb_mobile": 10
-          }
-        },
-        "bl_col_4AcjHk": {
-          "type": "bl_col",
-          "settings": {
-            "col_dk": "6",
-            "col_tb": "6",
-            "col_mb": "12",
-            "align_vertical": false,
-            "content_align": "center",
-            "content_align_tablet": "center",
-            "content_align_mobile": "center",
-            "padding_inner": "30px,,30px",
-            "padding_inner_tb": "",
-            "padding_inner_mb": "",
-            "bg_cl": "#d2a2a2"
-          }
-        },
-        "newsletter_iykfDk": {
-          "type": "newsletter",
-          "settings": {
-            "form_width": 0,
-            "form_width_mb": 0,
-            "newl_des": "1",
-            "news_align": "center",
-            "newl_size": "small",
-            "btn_icon": false,
-            "input_cl": "#878787",
-            "border_cl": "#000000",
-            "btn_cl": "#ffffff",
-            "btn_bg_cl": "#222222",
-            "btn_hover_cl": "#ffffff",
-            "btn_hover_bg_cl": "#56cfe1",
-            "hidden_mobile": false,
-            "mgb": 15,
-            "mgb_mb": 10
-          }
-        }
-      },
-      "block_order": [
-        "bl_col_PUpURP",
-        "custom_text_TBFQTN",
-        "custom_text_KyVzaY",
-        "bl_col_4AcjHk",
-        "newsletter_iykfDk"
-      ],
-      "settings": {
-        "space_h_item": "30",
-        "space_v_item": "30",
-        "space_h_item_mb": "10",
-        "space_v_item_mb": "10",
-        "layout": "t4s-container-wrap",
-        "cl_bg": "",
-        "cl_bg_gradient": "",
-        "mg": ",,50px,",
-        "pd": "",
-        "mg_tb": ",,50px,",
-        "pd_tb": "",
-        "mg_mb": ",,30px,",
-        "pd_mb": "",
-        "use_cus_css": false,
-        "code_cus_css": ""
-      }
-    },
     "iconbox_AbCUPL": {
       "type": "iconbox",
       "blocks": {
@@ -338,6 +213,250 @@
         "pd_mb": "",
         "use_cus_css": true,
         "code_cus_css": ".SectionID .t4s-iconbox-icon {\n    margin-right: 0px !important;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n}\n.SectionID .t4s-d-flex{\n    flex-direction: column;\n}\n.t4s-iconbox-des p{\nfont-weight: 500;\n    font-size: 15px;\n    color: #00264d;\n    line-height: 1.5;\n}"
+      }
+    },
+    "custom_section_N9xfLe": {
+      "type": "custom-section",
+      "blocks": {
+        "bl_col_mB3MUL": {
+          "type": "bl_col",
+          "settings": {
+            "col_dk": "6",
+            "col_tb": "6",
+            "col_mb": "12",
+            "align_vertical": false,
+            "content_align": "center",
+            "content_align_tablet": "center",
+            "content_align_mobile": "center",
+            "padding_inner": "30px,,30px",
+            "padding_inner_tb": "",
+            "padding_inner_mb": "",
+            "bg_cl": "rgba(0,0,0,0)"
+          }
+        },
+        "image_rfUGrc": {
+          "type": "image",
+          "settings": {
+            "image_child": "shopify:\/\/shop_images\/Shirt-Linens-Color_6b0defcc-38bd-4c14-9022-9034185a34d2.png",
+            "img_link": "",
+            "open_link": "_self",
+            "img_width": 0,
+            "img_width_mb": 0,
+            "img_align": "center",
+            "img_align_tb": "center",
+            "img_align_mobile": "center",
+            "b_effect": "none",
+            "hidden_mobile": false,
+            "mgb": 20,
+            "mgb_mb": 20
+          }
+        },
+        "bl_col_tUMcDy": {
+          "type": "bl_col",
+          "settings": {
+            "col_dk": "6",
+            "col_tb": "6",
+            "col_mb": "12",
+            "align_vertical": false,
+            "content_align": "start",
+            "content_align_tablet": "start",
+            "content_align_mobile": "start",
+            "padding_inner": "30px,,30px",
+            "padding_inner_tb": "",
+            "padding_inner_mb": "",
+            "bg_cl": "rgba(0,0,0,0)"
+          }
+        },
+        "custom_text_FUGpL8": {
+          "type": "custom_text",
+          "settings": {
+            "text": "Cleaning Clothes & Linens",
+            "remove_br_tag": false,
+            "tag": "h3",
+            "fontf": "inherit",
+            "text_cl": "#00264d",
+            "text_fs": 24,
+            "text_lh": 0,
+            "text_fw": 500,
+            "text_ls": 0,
+            "font_italic": false,
+            "text_shadow": false,
+            "text_mgb": 5,
+            "hidden_mobile": false,
+            "text_fs_mb": 16,
+            "text_lh_mb": 0,
+            "text_ls_mb": 0,
+            "text_mgb_mobile": 10
+          }
+        },
+        "custom_text_fx87Cj": {
+          "type": "custom_text",
+          "settings": {
+            "text": "<ol>\n    <li>Remove excess liquid from stained area<\/li>\n    <li>Slightly dampen clothing or linen with cold water<\/li>\n    <li>Spray, wipe or blot ESR formula directly on stain(s), rub in gently if needed<\/li>\n    <li>Rinse well with water<\/li>\n    <li>For stubborn (old or set) stains, repeat if necessary<\/li>\n    <li>After removing or treating stain, launder as usual<\/li>\n<\/ol>",
+            "remove_br_tag": false,
+            "tag": "div",
+            "fontf": "inherit",
+            "text_cl": "#000000",
+            "text_fs": 14,
+            "text_lh": 24,
+            "text_fw": 400,
+            "text_ls": 0,
+            "font_italic": false,
+            "text_shadow": false,
+            "text_mgb": 0,
+            "hidden_mobile": false,
+            "text_fs_mb": 16,
+            "text_lh_mb": 0,
+            "text_ls_mb": 0,
+            "text_mgb_mobile": 10
+          }
+        }
+      },
+      "block_order": [
+        "bl_col_mB3MUL",
+        "image_rfUGrc",
+        "bl_col_tUMcDy",
+        "custom_text_FUGpL8",
+        "custom_text_fx87Cj"
+      ],
+      "settings": {
+        "space_h_item": "30",
+        "space_v_item": "30",
+        "space_h_item_mb": "10",
+        "space_v_item_mb": "10",
+        "layout": "t4s-container-wrap",
+        "cl_bg": "",
+        "cl_bg_gradient": "",
+        "mg": ",,50px,",
+        "pd": "",
+        "mg_tb": ",,50px,",
+        "pd_tb": "",
+        "mg_mb": ",,30px,",
+        "pd_mb": "",
+        "use_cus_css": false,
+        "code_cus_css": ""
+      }
+    },
+    "custom_section_JzBgt6": {
+      "type": "custom-section",
+      "blocks": {
+        "bl_col_PUpURP": {
+          "type": "bl_col",
+          "settings": {
+            "col_dk": "6",
+            "col_tb": "6",
+            "col_mb": "12",
+            "align_vertical": false,
+            "content_align": "start",
+            "content_align_tablet": "start",
+            "content_align_mobile": "start",
+            "padding_inner": "30px,,30px",
+            "padding_inner_tb": "",
+            "padding_inner_mb": "",
+            "bg_cl": "rgba(0,0,0,0)"
+          }
+        },
+        "custom_text_TBFQTN": {
+          "type": "custom_text",
+          "settings": {
+            "text": "Cleaning Carpets and Upholstery",
+            "remove_br_tag": false,
+            "tag": "h2",
+            "fontf": "inherit",
+            "text_cl": "#00264d",
+            "text_fs": 24,
+            "text_lh": 0,
+            "text_fw": 500,
+            "text_ls": 0,
+            "font_italic": false,
+            "text_shadow": false,
+            "text_mgb": 5,
+            "hidden_mobile": false,
+            "text_fs_mb": 16,
+            "text_lh_mb": 0,
+            "text_ls_mb": 0,
+            "text_mgb_mobile": 10
+          }
+        },
+        "custom_text_KyVzaY": {
+          "type": "custom_text",
+          "settings": {
+            "text": "<ol>\n    <li>Remove excess liquid from stained area<\/li>\n    <li>Slightly dampen clothing or linen with cold water<\/li>\n    <li>Spray, wipe or blot ESR formula directly on stain(s), rub in gently if needed<\/li>\n    <li>Rinse well with water<\/li>\n    <li>For stubborn (old or set) stains, repeat if necessary<\/li>\n    <li>After removing or treating stain, launder as usual<\/li>\n<\/ol>",
+            "remove_br_tag": false,
+            "tag": "div",
+            "fontf": "inherit",
+            "text_cl": "#000000",
+            "text_fs": 14,
+            "text_lh": 24,
+            "text_fw": 400,
+            "text_ls": 0,
+            "font_italic": false,
+            "text_shadow": false,
+            "text_mgb": 0,
+            "hidden_mobile": false,
+            "text_fs_mb": 16,
+            "text_lh_mb": 0,
+            "text_ls_mb": 0,
+            "text_mgb_mobile": 10
+          }
+        },
+        "bl_col_4AcjHk": {
+          "type": "bl_col",
+          "settings": {
+            "col_dk": "6",
+            "col_tb": "6",
+            "col_mb": "12",
+            "align_vertical": false,
+            "content_align": "center",
+            "content_align_tablet": "center",
+            "content_align_mobile": "center",
+            "padding_inner": "30px,,30px",
+            "padding_inner_tb": "",
+            "padding_inner_mb": "",
+            "bg_cl": "rgba(0,0,0,0)"
+          }
+        },
+        "image_BxpxBP": {
+          "type": "image",
+          "settings": {
+            "image_child": "shopify:\/\/shop_images\/Couch-Rug-Color.png",
+            "img_link": "",
+            "open_link": "_self",
+            "img_width": 0,
+            "img_width_mb": 0,
+            "img_align": "center",
+            "img_align_tb": "center",
+            "img_align_mobile": "center",
+            "b_effect": "none",
+            "hidden_mobile": false,
+            "mgb": 20,
+            "mgb_mb": 20
+          }
+        }
+      },
+      "block_order": [
+        "bl_col_PUpURP",
+        "custom_text_TBFQTN",
+        "custom_text_KyVzaY",
+        "bl_col_4AcjHk",
+        "image_BxpxBP"
+      ],
+      "settings": {
+        "space_h_item": "30",
+        "space_v_item": "30",
+        "space_h_item_mb": "10",
+        "space_v_item_mb": "10",
+        "layout": "t4s-container-wrap",
+        "cl_bg": "",
+        "cl_bg_gradient": "",
+        "mg": ",,50px,",
+        "pd": "",
+        "mg_tb": ",,50px,",
+        "pd_tb": "",
+        "mg_mb": ",,30px,",
+        "pd_mb": "",
+        "use_cus_css": false,
+        "code_cus_css": ""
       }
     },
     "accordion_Y8y3aE": {
@@ -480,8 +599,9 @@
     "heading",
     "main",
     "sidebar-page",
-    "custom_section_JzBgt6",
     "iconbox_AbCUPL",
+    "custom_section_N9xfLe",
+    "custom_section_JzBgt6",
     "accordion_Y8y3aE"
   ]
 }
