@@ -215,6 +215,190 @@
         "code_cus_css": ".SectionID .t4s-iconbox-icon {\n    margin-right: 0px !important;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n}\n.SectionID .t4s-d-flex{\n    flex-direction: column;\n}\n.t4s-iconbox-des p{\nfont-weight: 500;\n    font-size: 15px;\n    color: #00264d;\n    line-height: 1.5;\n}"
       }
     },
+    "custom_section_t3pxEd": {
+      "type": "custom-section",
+      "blocks": {
+        "bl_col_UD6gec": {
+          "type": "bl_col",
+          "settings": {
+            "col_dk": "12",
+            "col_tb": "12",
+            "col_mb": "12",
+            "align_vertical": false,
+            "content_align": "center",
+            "content_align_tablet": "center",
+            "content_align_mobile": "center",
+            "padding_inner": "",
+            "padding_inner_tb": "",
+            "padding_inner_mb": "",
+            "bg_cl": "rgba(0,0,0,0)"
+          }
+        },
+        "custom_text_dCEEN8": {
+          "type": "custom_text",
+          "settings": {
+            "text": "*The Key: Check the Label",
+            "remove_br_tag": false,
+            "tag": "h2",
+            "fontf": "inherit",
+            "text_cl": "#00264d",
+            "text_fs": 34,
+            "text_lh": 36,
+            "text_fw": 600,
+            "text_ls": 0,
+            "font_italic": false,
+            "text_shadow": false,
+            "text_mgb": 15,
+            "hidden_mobile": false,
+            "text_fs_mb": 16,
+            "text_lh_mb": 0,
+            "text_ls_mb": 0,
+            "text_mgb_mobile": 10
+          }
+        },
+        "bl_col_xrjTKD": {
+          "type": "bl_col",
+          "settings": {
+            "col_dk": "4",
+            "col_tb": "4",
+            "col_mb": "12",
+            "align_vertical": false,
+            "content_align": "start",
+            "content_align_tablet": "start",
+            "content_align_mobile": "start",
+            "padding_inner": "30px,,30px",
+            "padding_inner_tb": "",
+            "padding_inner_mb": "",
+            "bg_cl": "rgba(0,0,0,0)"
+          }
+        },
+        "custom_text_ycycrn": {
+          "type": "custom_text",
+          "settings": {
+            "text": "Stains are a pain but you don’t want the removal to be worse than the problem!<br>\n\nWhile our formula does not contain harsh oxidizing agents such as peroxide or chlorine, it does remove color \"to bleach\" and the key is to make sure it works on the stains and not the fabric.",
+            "remove_br_tag": false,
+            "tag": "p",
+            "fontf": "inherit",
+            "text_cl": "#00264d",
+            "text_fs": 16,
+            "text_lh": 24,
+            "text_fw": 400,
+            "text_ls": 0,
+            "font_italic": false,
+            "text_shadow": false,
+            "text_mgb": 0,
+            "hidden_mobile": false,
+            "text_fs_mb": 16,
+            "text_lh_mb": 0,
+            "text_ls_mb": 0,
+            "text_mgb_mobile": 10
+          }
+        },
+        "bl_col_JriYcL": {
+          "type": "bl_col",
+          "settings": {
+            "col_dk": "4",
+            "col_tb": "4",
+            "col_mb": "12",
+            "align_vertical": false,
+            "content_align": "center",
+            "content_align_tablet": "center",
+            "content_align_mobile": "center",
+            "padding_inner": "30px,,30px",
+            "padding_inner_tb": "",
+            "padding_inner_mb": "",
+            "bg_cl": "rgba(0,0,0,0)"
+          }
+        },
+        "custom_text_QH6Laq": {
+          "type": "custom_text",
+          "settings": {
+            "text": "If you read: \"wash separately\", \"do not use bleach\", \"wash in cold water,\" \"hand wash,\" or \"turn inside out \", the dyes in these items are not colorfast. Any doubt we recommend (1) you do a colorfast test and (2) you fully rinse the formula out immediately after treatment so it not sit or react with the fabric.\nWe also contain water, so if label reads \"dry clean only\"",
+            "remove_br_tag": false,
+            "tag": "p",
+            "fontf": "inherit",
+            "text_cl": "#00264d",
+            "text_fs": 16,
+            "text_lh": 24,
+            "text_fw": 400,
+            "text_ls": 0,
+            "font_italic": false,
+            "text_shadow": false,
+            "text_mgb": 15,
+            "hidden_mobile": false,
+            "text_fs_mb": 16,
+            "text_lh_mb": 24,
+            "text_ls_mb": 0,
+            "text_mgb_mobile": 10
+          }
+        },
+        "bl_col_Ny797N": {
+          "type": "bl_col",
+          "settings": {
+            "col_dk": "4",
+            "col_tb": "4",
+            "col_mb": "12",
+            "align_vertical": false,
+            "content_align": "start",
+            "content_align_tablet": "start",
+            "content_align_mobile": "start",
+            "padding_inner": "",
+            "padding_inner_tb": "",
+            "padding_inner_mb": "",
+            "bg_cl": "rgba(0,0,0,0)"
+          }
+        },
+        "custom_text_nGqwYa": {
+          "type": "custom_text",
+          "settings": {
+            "text": "or your fabric hates water (e.g silk or rayon) then proceed carefully. If you get a water stain then usual measures should remove.\n<br>\nIf in doubt please review the Q&A or contact with customer service here",
+            "remove_br_tag": false,
+            "tag": "p",
+            "fontf": "inherit",
+            "text_cl": "#00264d",
+            "text_fs": 16,
+            "text_lh": 24,
+            "text_fw": 400,
+            "text_ls": 0,
+            "font_italic": false,
+            "text_shadow": false,
+            "text_mgb": 15,
+            "hidden_mobile": false,
+            "text_fs_mb": 16,
+            "text_lh_mb": 0,
+            "text_ls_mb": 0,
+            "text_mgb_mobile": 10
+          }
+        }
+      },
+      "block_order": [
+        "bl_col_UD6gec",
+        "custom_text_dCEEN8",
+        "bl_col_xrjTKD",
+        "custom_text_ycycrn",
+        "bl_col_JriYcL",
+        "custom_text_QH6Laq",
+        "bl_col_Ny797N",
+        "custom_text_nGqwYa"
+      ],
+      "settings": {
+        "space_h_item": "30",
+        "space_v_item": "30",
+        "space_h_item_mb": "10",
+        "space_v_item_mb": "10",
+        "layout": "t4s-container-wrap",
+        "cl_bg": "#f8f5ef",
+        "cl_bg_gradient": "",
+        "mg": ",,50px,",
+        "pd": "",
+        "mg_tb": ",,50px,",
+        "pd_tb": "",
+        "mg_mb": ",,30px,",
+        "pd_mb": "",
+        "use_cus_css": false,
+        "code_cus_css": ""
+      }
+    },
     "custom_section_N9xfLe": {
       "type": "custom-section",
       "blocks": {
@@ -333,8 +517,8 @@
         "pd_tb": "",
         "mg_mb": ",,30px,",
         "pd_mb": "",
-        "use_cus_css": false,
-        "code_cus_css": ""
+        "use_cus_css": true,
+        "code_cus_css": ".SectionID ol{\nlist-style: revert;\nmargin-top:20px;\n}"
       }
     },
     "custom_section_JzBgt6": {
@@ -455,8 +639,8 @@
         "pd_tb": "",
         "mg_mb": ",,30px,",
         "pd_mb": "",
-        "use_cus_css": false,
-        "code_cus_css": ""
+        "use_cus_css": true,
+        "code_cus_css": ".SectionID ol{\nlist-style: revert;\nmargin-top:20px;\n}"
       }
     },
     "accordion_Y8y3aE": {
@@ -600,6 +784,7 @@
     "main",
     "sidebar-page",
     "iconbox_AbCUPL",
+    "custom_section_t3pxEd",
     "custom_section_N9xfLe",
     "custom_section_JzBgt6",
     "accordion_Y8y3aE"
