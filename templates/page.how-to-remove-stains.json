@@ -1,0 +1,227 @@
+{
+  "sections": {
+    "heading": {
+      "type": "heading-template",
+      "blocks": {
+        "18952756-58af-4afa-a0cc-b1b54300fb8b": {
+          "type": "1",
+          "settings": {
+            "heading": "",
+            "fontf": "inherit",
+            "text_cl": "#ffffff",
+            "text_fs": 20,
+            "text_lh": 20,
+            "text_fw": 500,
+            "text_ls": 0,
+            "font_italic": false,
+            "font_uppercase": false,
+            "text_shadow": false,
+            "text_mgb": 15,
+            "hidden_mobile": false,
+            "text_fs_mb": 20,
+            "text_lh_mb": 20,
+            "text_ls_mb": 0,
+            "text_mgb_mobile": 10
+          }
+        },
+        "cc993342-0dd0-41d6-a6c4-a5f3c87e6f96": {
+          "type": "3",
+          "settings": {
+            "breadcrumb_color": "#f2f2f2",
+            "brc_mgb": 5
+          }
+        }
+      },
+      "block_order": [
+        "18952756-58af-4afa-a0cc-b1b54300fb8b",
+        "cc993342-0dd0-41d6-a6c4-a5f3c87e6f96"
+      ],
+      "settings": {
+        "heading_fullwidth": false,
+        "use_specify_image": true,
+        "parallax": false,
+        "color": "#000000",
+        "overlay": 54,
+        "padding": 50,
+        "paddingmb": 50,
+        "mg_b": 50,
+        "mg_bmb": 50,
+        "content_align": "t4s-text-center",
+        "bg_pos": "center center",
+        "bg_repeat": "no-repeat",
+        "bg_size": "cover",
+        "use_cus_css": false,
+        "code_cus_css": ".SectionID {\nbackground-color:red\n}"
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "layout": "t4s-container-wrap",
+        "cl_bg": "",
+        "cl_bg_gradient": "",
+        "mg": "60px,,60px,",
+        "pd": "",
+        "mg_tb": "",
+        "pd_tb": "",
+        "mg_mb": ",,30px,",
+        "pd_mb": ""
+      }
+    },
+    "sidebar-page": {
+      "type": "sidebar-page",
+      "disabled": true,
+      "settings": {
+        "enable_drawer": true,
+        "space": 50,
+        "size": "medium",
+        "br_style": "none",
+        "brcolor": "#222222",
+        "sidebar_bdr": 5,
+        "sidebar_pd": 10
+      }
+    },
+    "accordion_Y8y3aE": {
+      "type": "accordion",
+      "blocks": {
+        "accor_item_RjrjgE": {
+          "type": "accor_item",
+          "settings": {
+            "icon": "none",
+            "title": "Are These Products Safe for My Fabrics?",
+            "content": "<p>Stains are a pain, but you certainly don’t want the removal to be worse than the problem! The good news is our formula does not contain harsh oxidizing agents such as peroxide or chlorine bleach, and is generally safe on all washable fabrics EXCEPT rayon and acetate (which hate getting wet anyway). To be safe, you should check any labels and if you read, \"wash separately,\" \"wash in cold water,\" \"hand wash,\" \"do not use detergent\" or \"turn inside out to launder\", it may indicate the dyes in these items are not colorfast. If you are under any doubt we recommend you do a colorfast test before using any of our products.<em>(For usage and caution messages for humans, please see answer below.)<\/em><\/p>"
+          }
+        },
+        "accor_item_8UX6Pk": {
+          "type": "accor_item",
+          "settings": {
+            "icon": "none",
+            "title": "What is a Colorfast test?",
+            "content": "<p>To test if our formula is safe for your fabric, choose an inconspicuous corner of the material, (maybe a hem or other hidden area) and apply the formula. Leave for two to three minutes and then blot with a white paper towel. If the colors do not change, run, or come off on the paper towel, and if the item is definitely washable, you may safely use the all<strong>The Hate Stains Co.<\/strong> products.<\/p>"
+          }
+        },
+        "accor_item_UceL6F": {
+          "type": "accor_item",
+          "settings": {
+            "icon": "none",
+            "title": "Is the Formula Safe on Upholstery and Carpets?",
+            "content": "<p>Yes, our formula works excellently on heavier fabrics. After treatment, it is important to properly remove all soapy residues (we suggest a carpet cleaning vacuum or a careful use of a sponge and rinse with water). Failure to properly remove residue can result in the clean spot collecting dust over time. If residue does remain and this occurs, you can still use a vacuum or sponge to clean the area.<br\/><\/p>"
+          }
+        },
+        "accor_item_xY4AXh": {
+          "type": "accor_item",
+          "settings": {
+            "icon": "none",
+            "title": "Which Fabrics and Surfaces Are Not Recommended for Product Use?",
+            "content": "<p>Despite being safe for most clothing and your hands there are still some things that you need to be careful with:<\/p><p>&gt; Clothing made with rayon or acetate or silk listed as \"dry clean only\" is not recommended for <strong>The Hate Stains Co<\/strong>. product use.<br\/>&gt; Surfaces that are porous, like marble or granite or wood, and that need special care may absorb the liquid and dull the surface.<\/p>"
+          }
+        },
+        "accor_item_Ppq4gU": {
+          "type": "accor_item",
+          "settings": {
+            "icon": "none",
+            "title": "Why does the formula not work on \"this\" stain?",
+            "content": "<p>We are very confident<strong>The Hate Stains Co.<\/strong>formula is the best stain remover out in the market. However, there are some stains on some fabrics that seem to be harder than others. Following instructions (prep\/ treat\/ rinse) can be repeated and significant progress should be made.<br\/><\/p>"
+          }
+        },
+        "accor_item_NaWVGa": {
+          "type": "accor_item",
+          "settings": {
+            "icon": "none",
+            "title": "Does the formula work better than \"Home Remedies\" like Salt, Soda Water, and White Wine?",
+            "content": "<p>We hear that customers have tried many different \"home remedies\" to try and treat stains in a pinch. Some use salt, vinegar, soda water, white wine, or a combination of some or all of the above to quickly treat red wine and common household stains.<\/p><p>Our experience shows that <strong>The Hate Stains Co.<\/strong> formula works much better than any of the mentioned quick fixes. Here are a couple articles\/blogs that did some independent testing <a href=\"http:\/\/www.bustle.com\/articles\/118941-how-to-remove-wine-from-clothes-anything-else-youve-spilled-pinot-on-photos\" title=\"Bustle cant believe how well Chateau Spill works on stains\">Bustle.com<\/a> and <a href=\"http:\/\/thewinewankers.com.au\/2015\/06\/26\/red-wine-stain-remover-vs-white-wine\/\" target=\"_blank\" title=\"The Wine Wankers love the stain removing ability and package of Chateau Spill\">WineWankers.com<\/a> <\/p>"
+          }
+        },
+        "accor_item_BdQ3gN": {
+          "type": "accor_item",
+          "settings": {
+            "icon": "none",
+            "title": "What types of stains does the formula work on?",
+            "content": "<p><strong>The Hate Stains Co.<\/strong> formula is incredibly effective on a variety of stains:<\/p><p>&gt; <strong>Wine<br\/><\/strong>Blot wet stain of excess liquid or moisten dry\/old stains with water, apply <strong>The Hate Stains Co. <\/strong>product and then launder as usual or rinse away soapy residue.<\/p><p>&gt; <strong>Berries, pomegranate juice, and tomatoes<\/strong><br\/>Like wine, these disappear on contact. Remove excess material, moisten with water, apply <strong>The Hate Stains Co.<\/strong> product, and then launder as usual.<\/p><p>&gt; <strong>Blood, Grass, Lipstick and Mascara<\/strong><br\/>These also quickly disappear, though they need a little rubbing. Remove excess material, moisten with water, apply <strong>The Hate Stains Co.<\/strong> product, then use some rubbing to lift the stain and dissolve the color causing particles. Then, launder as usual.<\/p><p>&gt; <strong>Beet Juice, Carbon, Tea and Grape Juice<\/strong>(<em>yes it is odd that grape juice is different from wine but we tested it!<\/em>)<br\/>These types of stains do come out with <strong>The Hate Stains Co.<\/strong> product, but not on contact. Remove excess material, moisten with water, apply product, and then launder for a great post wash result.<\/p>"
+          }
+        },
+        "accor_item_kNQ9Jd": {
+          "type": "accor_item",
+          "settings": {
+            "icon": "none",
+            "title": "Are The Hate Stains Co.'s products dangerous?",
+            "content": "<p>Our products' ingredients have been used to clean hands in labs and hospitals for over 40 Years, However, to reiterate what it says on the label:<\/p><p><strong>Caution:<\/strong> Eye Irritant. Keep out of reach of Children.<\/p><p>Avoid Eye Contact. For eye contact flush with water for 15 minutes. If irritation persists, seek medical attention. If swallowed, seek medical attention immediately. If dry skin and\/or irritation appear, clean with soap and water, apply hand cream and discontinue use. Do not mix with any other chemicals. Avoid contact with food. Store at room temperature. <strong>For external use only.<\/strong><\/p>"
+          }
+        },
+        "accor_item_VjRRAq": {
+          "type": "accor_item",
+          "settings": {
+            "icon": "none",
+            "title": "Where Can I Learn More about the Products' Safety?",
+            "content": "<p>The SDS sheet can be downloaded <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0679\/9881\/files\/ESR_LLC-SDS-2015-03-23.pdf?16712773773170403197\" title=\"ESR LLC Chateau Spill SDS Updated\">here<\/a>. <\/p>"
+          }
+        },
+        "accor_item_G9mKtP": {
+          "type": "accor_item",
+          "settings": {
+            "icon": "none",
+            "title": "Does The Hate Stains Co. ship to countries outside of the U.S.?",
+            "content": "<p>Currently we do not ship to countries outside of the United States, however we are looking to expand soon! If you'd like to be notified when we start shipping to new countries, please email orders@hatestains.com with your email address and country to be added to our Subscriber list. <\/p>"
+          }
+        },
+        "accor_item_YdF3hL": {
+          "type": "accor_item",
+          "settings": {
+            "icon": "none",
+            "title": "Where is My Order?",
+            "content": "<p>You will receive a shipping confirmation with an order tracking number when your order is processed. If you have questions, please email orders@hatestains.com. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "accor_item_RjrjgE",
+        "accor_item_8UX6Pk",
+        "accor_item_UceL6F",
+        "accor_item_xY4AXh",
+        "accor_item_Ppq4gU",
+        "accor_item_NaWVGa",
+        "accor_item_BdQ3gN",
+        "accor_item_kNQ9Jd",
+        "accor_item_VjRRAq",
+        "accor_item_G9mKtP",
+        "accor_item_YdF3hL"
+      ],
+      "settings": {
+        "design_heading": "1",
+        "heading_align": "t4s-text-center",
+        "top_heading": "",
+        "icon_heading": "las la-gem",
+        "top_subheading": "",
+        "tophead_mb": 30,
+        "accor_des": "1",
+        "title_cl": "#222",
+        "bg_title_cl": "#f6f6f8",
+        "title_active_cl": "#000",
+        "bg_title_active_cl": "#f6f6f8",
+        "content_cl": "#878787",
+        "bg_content_cl": "#fff",
+        "content_align": "t4s-text-start",
+        "auto_active": true,
+        "layout": "t4s-container-wrap",
+        "custom_width": 1000,
+        "cl_bg": "",
+        "cl_bg_gradient": "",
+        "mg": ",,50px,",
+        "pd": "",
+        "mg_tb": "",
+        "pd_tb": "",
+        "mg_mb": ",,30px,",
+        "pd_mb": "",
+        "use_cus_css": false,
+        "code_cus_css": ""
+      }
+    }
+  },
+  "order": [
+    "heading",
+    "main",
+    "sidebar-page",
+    "accordion_Y8y3aE"
+  ]
+}
