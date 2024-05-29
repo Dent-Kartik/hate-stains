@@ -1026,9 +1026,31 @@
         "use_cus_css": true,
         "code_cus_css": "@media (min-width:768px){\n.SectionID h3 span{color:#0B0F0E;font-size:38px;}\n.t4s-blog-button-heading{font-size:18px;}\n}\n\n.SectionID img{border-radius:8px;}\n.SectionID  h3.t4s-section-title.t4s-title{padding:0!important;}\n@media (max-width:767px){\n.SectionID h3 span{color:#0B0F0E;}\n.SectionID h3.t4s-section-title.t4s-title{margin-bottom:0;}\n}"
       }
+    },
+    "shogun-above": {
+      "type": "shogun-above",
+      "settings": {
+      }
+    },
+    "shogun-below": {
+      "type": "shogun-below",
+      "settings": {
+      }
+    },
+    "shogun-helper": {
+      "type": "shogun-helper",
+      "settings": {
+      }
+    },
+    "shogun-optimizer": {
+      "type": "shogun-optimizer",
+      "settings": {
+      }
     }
   },
   "order": [
+    "shogun-helper",
+    "shogun-above",
     "breadcrumb",
     "main",
     "a183f929-3190-46fb-a8c2-960c8c8b7c6f",
@@ -1041,6 +1063,8 @@
     "9f87910c-c229-4870-a34d-b30c3e3613f4",
     "1a5f18e3-6d85-43b3-a67d-fd565e3561bd",
     "34eab03a-b1c4-4c29-9079-64f6e663d12a",
-    "67aee4f6-c98c-4da7-9ea9-8fe5b50e0691"
+    "67aee4f6-c98c-4da7-9ea9-8fe5b50e0691",
+    "shogun-below",
+    "shogun-optimizer"
   ]
 }

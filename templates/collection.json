@@ -345,12 +345,36 @@
         "sidebar_bdr": 0,
         "sidebar_pd": 15
       }
+    },
+    "shogun-above": {
+      "type": "shogun-above",
+      "settings": {
+      }
+    },
+    "shogun-below": {
+      "type": "shogun-below",
+      "settings": {
+      }
+    },
+    "shogun-helper": {
+      "type": "shogun-helper",
+      "settings": {
+      }
+    },
+    "shogun-optimizer": {
+      "type": "shogun-optimizer",
+      "settings": {
+      }
     }
   },
   "order": [
+    "shogun-helper",
+    "shogun-above",
     "top",
     "heading_template",
     "main",
-    "sidebar"
+    "sidebar",
+    "shogun-below",
+    "shogun-optimizer"
   ]
 }
