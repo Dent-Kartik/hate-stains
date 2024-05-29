@@ -242,8 +242,9 @@ window.__lo_site_id = 325360;
       data-bgset="{{ body_img | image_url: width: 1 }}" data-optimumx="2" data-sizes="auto"
     {% endif -%}
   >
-    <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MNDL38J6"
+
+ <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N8C4NBX"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
     {% if isRTL %}
@@ -449,6 +450,8 @@ document.addEventListener("DOMContentLoaded", function() {
       endif
     endif
   %}
+  <script src="{{ 'skio-cart-upsell.js' | asset_url }}" type="module"></script>
+
   {% if isV6GpTemplate %}
     {% render 'gem-app-footer-scripts', GEM_FOOTER_SCRIPT: GEM_FOOTER_SCRIPT %}
   {% endif %}
