@@ -125,7 +125,7 @@ t4sp-theme t4s-wrapper__{{ settings.general_layout }} rtl_{{ isRTL }} swatch_col
 {% endcomment %}
   
 {%if luvitatu%}
-<script>delayLoadTillUserInteraction("trust_gtag",function(){deloadAny("https://www.googletagmanager.com/gtag/js?id=G-WKK1JVEEVK",{type:"text/javascript",async:!0,onload:"assignEvento('gtag_load')"})}),function(t,a,e,g,s){t[g]=t[g]||[],t[g].push({"gtm.start":new Date().getTime(),event:"gtm.js"}),a.getElementsByTagName(e)[0];var n=a.createElement(e);n.async=!0,n.src="https://www.googletagmanager.com/gtm.js?id="+s+("dataLayer"!=g?"&l="+g:"")}(window,document,"script","dataLayer","GTM-W7DJ8GJ");</script>
+<script>delayLoadTillUserInteraction("trust_gtag",function(){deloadAny("https://www.googletagmanager.com/gtag/js?id=G-WKK1JVEEVK",{type:"text/javascript",async:!0,onload:"assignEvento('gtag_load')"})}),function(t,a,e,g,s){t[g]=t[g]||[],t[g].push({"gtm.start":new Date().getTime(),event:"gtm.js"}),a.getElementsByTagName(e)[0];var n=a.createElement(e);n.async=!0,n.src="https://www.googletagmanager.com/gtm.js?id="+s+("dataLayer"!=g?"&l="+g:"")}(window,document,"script","dataLayer","GTM-N8C4NBX");</script>
 {%else%}
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -135,6 +135,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-N8C4NBX');</script>
 <!-- End Google Tag Manager -->
 {%endif%}
+  
+  {% render 'skio-head' %}
+  <script type='text/javascript'>
+window.__lo_site_id = 325360;
+
+	(function() {
+		var wa = document.createElement('script'); wa.type = 'text/javascript'; wa.async = true;
+		wa.src = 'https://d10lpsik1i8c69.cloudfront.net/w.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(wa, s);
+	  })();
+	</script>
     {% render 'dataLayer.common' %}
 {% if template.suffix == 'try-v2' %}
   {% render 'dataLayer.bundle' %}
