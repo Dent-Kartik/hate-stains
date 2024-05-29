@@ -844,7 +844,7 @@
             "type": "menu",
             "settings": {
               "title": "Contact Us",
-              "url": "https:\/\/hatestains.com\/pages\/contact-us",
+              "url": "shopify:\/\/pages\/contact",
               "open_link": "_self",
               "menu": "",
               "lb": "",
