@@ -1,5 +1,15 @@
 {
   "sections": {
+    "shogun-helper": {
+      "type": "shogun-helper",
+      "settings": {
+      }
+    },
+    "shogun-above": {
+      "type": "shogun-above",
+      "settings": {
+      }
+    },
     "breadcrumb": {
       "type": "brc-nav-product",
       "settings": {
@@ -152,7 +162,6 @@
         },
         "95d4f334-8ea7-4cd2-b609-2373b1e848b8": {
           "type": "tab_des",
-          "disabled": true,
           "settings": {
             "title": "Description"
           }
@@ -1027,18 +1036,8 @@
         "code_cus_css": "@media (min-width:768px){\n.SectionID h3 span{color:#0B0F0E;font-size:38px;}\n.t4s-blog-button-heading{font-size:18px;}\n}\n\n.SectionID img{border-radius:8px;}\n.SectionID  h3.t4s-section-title.t4s-title{padding:0!important;}\n@media (max-width:767px){\n.SectionID h3 span{color:#0B0F0E;}\n.SectionID h3.t4s-section-title.t4s-title{margin-bottom:0;}\n}"
       }
     },
-    "shogun-above": {
-      "type": "shogun-above",
-      "settings": {
-      }
-    },
     "shogun-below": {
       "type": "shogun-below",
-      "settings": {
-      }
-    },
-    "shogun-helper": {
-      "type": "shogun-helper",
       "settings": {
       }
     },
