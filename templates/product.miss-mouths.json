@@ -185,6 +185,7 @@
         },
         "tab_html_NPT9gd": {
           "type": "tab_html",
+          "disabled": true,
           "settings": {
             "title": "Our Formula",
             "content": "{{ product.metafields.custom.our_formula | metafield_tag }}",
@@ -193,6 +194,7 @@
         },
         "tab_html_naUqDf": {
           "type": "tab_html",
+          "disabled": true,
           "settings": {
             "title": "Care Instructions",
             "content": "{{ product.metafields.custom.care_instructions | metafield_tag }}",
@@ -201,6 +203,7 @@
         },
         "tab_html_w3U8Fh": {
           "type": "tab_html",
+          "disabled": true,
           "settings": {
             "title": "Ingredients & Safety Info",
             "content": "{{ product.metafields.custom.ingredients_amp_safety_info | metafield_tag }}",
@@ -256,7 +259,7 @@
       ],
       "custom_css": [
         ".t4s-tab-wrapper {font-weight: 500; margin-bottom: 10px;}",
-        ".t4s-product__info-container .t4s-product-price {margin-bottom: 20px;}"
+        ".t4s-product__info-container .t4s-product-price {margin-bottom: 40px;}"
       ],
       "settings": {
         "pr_layout": "default",
@@ -312,12 +315,15 @@
         "videowise_video_platform_ugc_videowise_page_widgets_jBtpcD": {
           "type": "shopify:\/\/apps\/videowise-video-platform-ugc\/blocks\/videowise-page-widgets\/b48d6c0c-3e3f-4791-a9ab-a5ab7ec82f4d",
           "settings": {
-            "videowise_embed": "<div class=\"videowise-background videowise-background-component_66c6306ab052c400333eb1ac\" data-widget-id=\"66c6306ab052c400333eb1ac\">\n<video fetchpriority=\"high\" preload=\"none\" width=\"100%\" height=\"auto\" playsinline=\"true\" muted=\"true\" autoplay=\"true\" loop src=\"https:\/\/cdn2.videowise.com\/converted\/videos\/1724264345977_dee74c51-5fee-4570-aa3d-1cc81866c497_h264c.mp4\">\n  <source src=\"https:\/\/cdn2.videowise.com\/converted\/videos\/1724264345977_dee74c51-5fee-4570-aa3d-1cc81866c497_h264c.mp4\" type=\"video\/mp4\" media=\"(min-width: 768px)\"><\/source> \n  <source src=\"https:\/\/cdn2.videowise.com\/converted\/videos\/1724264345977_dee74c51-5fee-4570-aa3d-1cc81866c497_h264c.mp4\" type=\"video\/mp4\" media=\"(max-width: 767px)\"><\/source>  \n<\/video>\n<\/div>\n<script src=\"https:\/\/assets.videowise.com\/videowise-bg.js.gz\">\n<\/script>"
+            "videowise_embed": "<div class=\"videowise-background videowise-background-component_66c6306ab052c400333eb1ac\" data-widget-id=\"66c6306ab052c400333eb1ac\">\n<video fetchpriority=\"high\" preload=\"none\" width=\"100%\" height=\"auto\" playsinline=\"true\" muted=\"true\" autoplay=\"true\" loop=\"\" src=\"https:\/\/cdn2.videowise.com\/converted\/videos\/1724264345977_dee74c51-5fee-4570-aa3d-1cc81866c497_h264c.mp4\">\n  <source src=\"https:\/\/cdn2.videowise.com\/converted\/videos\/1724264345977_dee74c51-5fee-4570-aa3d-1cc81866c497_h264c.mp4\" type=\"video\/mp4\" media=\"(min-width: 768px)\"> \n  <source src=\"https:\/\/cdn2.videowise.com\/converted\/videos\/1724264345977_dee74c51-5fee-4570-aa3d-1cc81866c497_h264c.mp4\" type=\"video\/mp4\" media=\"(max-width: 767px)\">  \n<\/source><\/source><\/video>\n<\/div>\n<script src=\"https:\/\/assets.videowise.com\/videowise-bg.js.gz\">\n<\/script>"
           }
         }
       },
       "block_order": [
         "videowise_video_platform_ugc_videowise_page_widgets_jBtpcD"
+      ],
+      "custom_css": [
+
       ],
       "settings": {
       }
