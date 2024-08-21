@@ -306,6 +306,22 @@
         "time": 5
       }
     },
+    "17242646077d10a402": {
+      "type": "apps",
+      "blocks": {
+        "videowise_video_platform_ugc_videowise_page_widgets_jBtpcD": {
+          "type": "shopify:\/\/apps\/videowise-video-platform-ugc\/blocks\/videowise-page-widgets\/b48d6c0c-3e3f-4791-a9ab-a5ab7ec82f4d",
+          "settings": {
+            "videowise_embed": "<div class=\"videowise-background videowise-background-component_66c6306ab052c400333eb1ac\" data-widget-id=\"66c6306ab052c400333eb1ac\">\n<video fetchpriority=\"high\" preload=\"none\" width=\"100%\" height=\"auto\" playsinline=\"true\" muted=\"true\" autoplay=\"true\" loop src=\"https:\/\/cdn2.videowise.com\/converted\/videos\/1724264345977_dee74c51-5fee-4570-aa3d-1cc81866c497_h264c.mp4\">\n  <source src=\"https:\/\/cdn2.videowise.com\/converted\/videos\/1724264345977_dee74c51-5fee-4570-aa3d-1cc81866c497_h264c.mp4\" type=\"video\/mp4\" media=\"(min-width: 768px)\"><\/source> \n  <source src=\"https:\/\/cdn2.videowise.com\/converted\/videos\/1724264345977_dee74c51-5fee-4570-aa3d-1cc81866c497_h264c.mp4\" type=\"video\/mp4\" media=\"(max-width: 767px)\"><\/source>  \n<\/video>\n<\/div>\n<script src=\"https:\/\/assets.videowise.com\/videowise-bg.js.gz\">\n<\/script>"
+          }
+        }
+      },
+      "block_order": [
+        "videowise_video_platform_ugc_videowise_page_widgets_jBtpcD"
+      ],
+      "settings": {
+      }
+    },
     "image_text_RihUyk": {
       "type": "image_text",
       "blocks": {
@@ -1151,6 +1167,7 @@
     "shogun-above",
     "breadcrumb",
     "main",
+    "17242646077d10a402",
     "image_text_RihUyk",
     "a183f929-3190-46fb-a8c2-960c8c8b7c6f",
     "cbe86456-c461-46df-ae43-0af0d7d95359",
