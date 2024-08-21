@@ -309,115 +309,6 @@
         "time": 5
       }
     },
-    "17242646077d10a402": {
-      "type": "apps",
-      "blocks": {
-        "videowise_video_platform_ugc_videowise_page_widgets_jBtpcD": {
-          "type": "shopify:\/\/apps\/videowise-video-platform-ugc\/blocks\/videowise-page-widgets\/b48d6c0c-3e3f-4791-a9ab-a5ab7ec82f4d",
-          "settings": {
-            "videowise_embed": "<br>\n<div class=\"videowise-background videowise-background-component_66c6306ab052c400333eb1ac\" data-widget-id=\"66c6306ab052c400333eb1ac\">\n<video fetchpriority=\"high\" preload=\"none\" width=\"100%\" height=\"auto\" playsinline=\"true\" muted=\"true\" autoplay=\"true\" loop=\"\" src=\"https:\/\/cdn2.videowise.com\/converted\/videos\/1724264345977_dee74c51-5fee-4570-aa3d-1cc81866c497_h264c.mp4\">\n  <source src=\"https:\/\/cdn2.videowise.com\/converted\/videos\/1724264345977_dee74c51-5fee-4570-aa3d-1cc81866c497_h264c.mp4\" type=\"video\/mp4\" media=\"(min-width: 768px)\"> \n  <source src=\"https:\/\/cdn2.videowise.com\/converted\/videos\/1724264345977_dee74c51-5fee-4570-aa3d-1cc81866c497_h264c.mp4\" type=\"video\/mp4\" media=\"(max-width: 767px)\">  \n<\/source><\/source><\/video>\n<\/div>\n<script src=\"https:\/\/assets.videowise.com\/videowise-bg.js.gz\">\n<\/script>\n<br>"
-          }
-        }
-      },
-      "block_order": [
-        "videowise_video_platform_ugc_videowise_page_widgets_jBtpcD"
-      ],
-      "custom_css": [
-
-      ],
-      "settings": {
-      }
-    },
-    "image_text_RihUyk": {
-      "type": "image_text",
-      "blocks": {
-        "bl_image_KXRwEi": {
-          "type": "bl_image",
-          "settings": {
-            "image1": "shopify:\/\/shop_images\/HSN_MM_Hands_Bottle_Hold_1.jpg",
-            "col_dk": "6",
-            "col_tb": "6",
-            "layout_des": "carousel",
-            "post_mobile": "default",
-            "image_ratio": "ratioadapt",
-            "image_size": "cover",
-            "image_position": "8",
-            "loop": true,
-            "au_time": 0,
-            "au_hover": true,
-            "nav_btn": false,
-            "btn_vi": "hover",
-            "btn_owl": "default",
-            "btn_shape": "none",
-            "btn_cl": "dark",
-            "btn_size": "small",
-            "btn_hidden_mobile": true,
-            "nav_dot": false,
-            "dot_owl": "default",
-            "dots_cl": "dark",
-            "dots_round": true,
-            "dots_space": 10,
-            "dots_hidden_mobile": false
-          }
-        },
-        "bl_text_MEWgGL": {
-          "type": "bl_text",
-          "settings": {
-            "col_dk": "6",
-            "col_tb": "6",
-            "text_size": "40,15",
-            "txt_align": "center",
-            "sub_heading": "",
-            "heading": "<p>The Parental Essential<br\/><\/p>",
-            "adding_border": false,
-            "countdown": "2023\/12\/26",
-            "txt_day": "days",
-            "dayx": 0,
-            "text": "<p>This Safer-Choice certified diaper bag standby makes almost every spit-up and blowout an easy fix anywhere.<\/p>",
-            "subhd_color": "#222222",
-            "hd_color": "#222222",
-            "des_color": "#878787",
-            "use_shadow": false,
-            "button_label": "Button label",
-            "button_link": "",
-            "open_link": "_blank",
-            "btn_icon": false,
-            "button_style": "default",
-            "btn_size": "large",
-            "btn_cl": "dark",
-            "button_effect": "default"
-          }
-        }
-      },
-      "block_order": [
-        "bl_image_KXRwEi",
-        "bl_text_MEWgGL"
-      ],
-      "settings": {
-        "design_heading": "1",
-        "heading_align": "t4s-text-center",
-        "top_heading": "",
-        "icon_heading": "las la-gem",
-        "top_subheading": "",
-        "tophead_mb": 30,
-        "show_badge": false,
-        "space_h_item": "20",
-        "space_v_item": "10",
-        "space_h_item_mb": "20",
-        "space_v_item_mb": "10",
-        "layout": "t4s-container-wrap",
-        "cl_bg": "",
-        "cl_bg_gradient": "",
-        "mg": ",,50px,",
-        "pd": "",
-        "mg_tb": "",
-        "pd_tb": "",
-        "mg_mb": ",,30px,",
-        "pd_mb": "",
-        "use_cus_css": false,
-        "code_cus_css": ""
-      }
-    },
     "a183f929-3190-46fb-a8c2-960c8c8b7c6f": {
       "type": "image_text",
       "blocks": {
@@ -655,21 +546,6 @@
         "pd_mb": "",
         "use_cus_css": false,
         "code_cus_css": ""
-      }
-    },
-    "1702895640c62aba6a": {
-      "type": "apps",
-      "blocks": {
-        "8a680922-6c51-4cd9-8c1f-48449967dd9f": {
-          "type": "shopify:\/\/apps\/opinew-reviews\/blocks\/product-widget\/e1d8e0dc-17ff-4e4a-8a8a-1e73c8ef8676",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "8a680922-6c51-4cd9-8c1f-48449967dd9f"
-      ],
-      "settings": {
       }
     },
     "product-recommendations": {
@@ -1166,6 +1042,130 @@
       "type": "shogun-optimizer",
       "settings": {
       }
+    },
+    "17242646077d10a402": {
+      "type": "apps",
+      "blocks": {
+        "videowise_video_platform_ugc_videowise_page_widgets_jBtpcD": {
+          "type": "shopify:\/\/apps\/videowise-video-platform-ugc\/blocks\/videowise-page-widgets\/b48d6c0c-3e3f-4791-a9ab-a5ab7ec82f4d",
+          "settings": {
+            "videowise_embed": "<br>\n<div class=\"videowise-background videowise-background-component_66c6306ab052c400333eb1ac\" data-widget-id=\"66c6306ab052c400333eb1ac\">\n<video fetchpriority=\"high\" preload=\"none\" width=\"100%\" height=\"auto\" playsinline=\"true\" muted=\"true\" autoplay=\"true\" loop=\"\" src=\"https:\/\/cdn2.videowise.com\/converted\/videos\/1724264345977_dee74c51-5fee-4570-aa3d-1cc81866c497_h264c.mp4\">\n  <source src=\"https:\/\/cdn2.videowise.com\/converted\/videos\/1724264345977_dee74c51-5fee-4570-aa3d-1cc81866c497_h264c.mp4\" type=\"video\/mp4\" media=\"(min-width: 768px)\"> \n  <source src=\"https:\/\/cdn2.videowise.com\/converted\/videos\/1724264345977_dee74c51-5fee-4570-aa3d-1cc81866c497_h264c.mp4\" type=\"video\/mp4\" media=\"(max-width: 767px)\">  \n<\/source><\/source><\/video>\n<\/div>\n<script src=\"https:\/\/assets.videowise.com\/videowise-bg.js.gz\">\n<\/script>\n<br>"
+          }
+        }
+      },
+      "block_order": [
+        "videowise_video_platform_ugc_videowise_page_widgets_jBtpcD"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+      }
+    },
+    "image_text_RihUyk": {
+      "type": "image_text",
+      "blocks": {
+        "bl_image_KXRwEi": {
+          "type": "bl_image",
+          "settings": {
+            "image1": "shopify:\/\/shop_images\/HSN_MM_Hands_Bottle_Hold_1.jpg",
+            "col_dk": "6",
+            "col_tb": "6",
+            "layout_des": "carousel",
+            "post_mobile": "default",
+            "image_ratio": "ratioadapt",
+            "image_size": "cover",
+            "image_position": "8",
+            "loop": true,
+            "au_time": 0,
+            "au_hover": true,
+            "nav_btn": false,
+            "btn_vi": "hover",
+            "btn_owl": "default",
+            "btn_shape": "none",
+            "btn_cl": "dark",
+            "btn_size": "small",
+            "btn_hidden_mobile": true,
+            "nav_dot": false,
+            "dot_owl": "default",
+            "dots_cl": "dark",
+            "dots_round": true,
+            "dots_space": 10,
+            "dots_hidden_mobile": false
+          }
+        },
+        "bl_text_MEWgGL": {
+          "type": "bl_text",
+          "settings": {
+            "col_dk": "6",
+            "col_tb": "6",
+            "text_size": "40,15",
+            "txt_align": "center",
+            "sub_heading": "",
+            "heading": "<p>The Parental Essential<br\/><\/p>",
+            "adding_border": false,
+            "countdown": "2023\/12\/26",
+            "txt_day": "days",
+            "dayx": 0,
+            "text": "<p>This Safer-Choice certified diaper bag standby makes almost every spit-up and blowout an easy fix anywhere.<\/p>",
+            "subhd_color": "#222222",
+            "hd_color": "#222222",
+            "des_color": "#878787",
+            "use_shadow": false,
+            "button_label": "Button label",
+            "button_link": "",
+            "open_link": "_blank",
+            "btn_icon": false,
+            "button_style": "default",
+            "btn_size": "large",
+            "btn_cl": "dark",
+            "button_effect": "default"
+          }
+        }
+      },
+      "block_order": [
+        "bl_image_KXRwEi",
+        "bl_text_MEWgGL"
+      ],
+      "settings": {
+        "design_heading": "1",
+        "heading_align": "t4s-text-center",
+        "top_heading": "",
+        "icon_heading": "las la-gem",
+        "top_subheading": "",
+        "tophead_mb": 30,
+        "show_badge": false,
+        "space_h_item": "20",
+        "space_v_item": "10",
+        "space_h_item_mb": "20",
+        "space_v_item_mb": "10",
+        "layout": "t4s-container-wrap",
+        "cl_bg": "",
+        "cl_bg_gradient": "",
+        "mg": ",,50px,",
+        "pd": "",
+        "mg_tb": "",
+        "pd_tb": "",
+        "mg_mb": ",,30px,",
+        "pd_mb": "",
+        "use_cus_css": false,
+        "code_cus_css": ""
+      }
+    },
+    "1702895640c62aba6a": {
+      "type": "apps",
+      "blocks": {
+        "8a680922-6c51-4cd9-8c1f-48449967dd9f": {
+          "type": "shopify:\/\/apps\/opinew-reviews\/blocks\/product-widget\/e1d8e0dc-17ff-4e4a-8a8a-1e73c8ef8676",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "8a680922-6c51-4cd9-8c1f-48449967dd9f"
+      ],
+      "settings": {
+      }
     }
   },
   "order": [
@@ -1173,12 +1173,9 @@
     "shogun-above",
     "breadcrumb",
     "main",
-    "17242646077d10a402",
-    "image_text_RihUyk",
     "a183f929-3190-46fb-a8c2-960c8c8b7c6f",
     "cbe86456-c461-46df-ae43-0af0d7d95359",
     "video_featured_VJ8JH3",
-    "1702895640c62aba6a",
     "product-recommendations",
     "recently-viewed-products",
     "sidebar",
@@ -1187,6 +1184,9 @@
     "34eab03a-b1c4-4c29-9079-64f6e663d12a",
     "67aee4f6-c98c-4da7-9ea9-8fe5b50e0691",
     "shogun-below",
-    "shogun-optimizer"
+    "shogun-optimizer",
+    "17242646077d10a402",
+    "image_text_RihUyk",
+    "1702895640c62aba6a"
   ]
 }
