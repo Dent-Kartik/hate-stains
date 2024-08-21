@@ -2104,6 +2104,12 @@
           "familyPlanBannerTextColor": "#000000",
           "message": "Join {firstName}s' family plan and save an extra {percentage}% on your subscription! Discount will automatically apply during checkout as discount code {code}."
         }
+      },
+      "6544682535036668446": {
+        "type": "shopify:\/\/apps\/pumper-bundle-qty\/blocks\/app-embed\/0856870d-2aca-4b1e-a662-cf1797f61270",
+        "disabled": false,
+        "settings": {
+        }
       }
     }
   }
