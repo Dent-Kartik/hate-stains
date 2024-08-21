@@ -1166,6 +1166,21 @@
       ],
       "settings": {
       }
+    },
+    "custom_liquid_qYPKcE": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div id=\"cbb-frequently-bought-box\"><\/div>",
+        "layout": "t4s-container-wrap",
+        "cl_bg": "",
+        "cl_bg_gradient": "",
+        "mg": ",,50px,",
+        "pd": "",
+        "mg_tb": "",
+        "pd_tb": "",
+        "mg_mb": ",,30px,",
+        "pd_mb": ""
+      }
     }
   },
   "order": [
@@ -1187,6 +1202,7 @@
     "shogun-optimizer",
     "17242646077d10a402",
     "image_text_RihUyk",
-    "1702895640c62aba6a"
+    "1702895640c62aba6a",
+    "custom_liquid_qYPKcE"
   ]
 }
