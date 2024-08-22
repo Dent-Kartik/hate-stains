@@ -1070,6 +1070,22 @@
       "type": "shogun-optimizer",
       "settings": {
       }
+    },
+    "17243484525c8e0fe2": {
+      "type": "apps",
+      "blocks": {
+        "videowise_video_platform_ugc_videowise_page_widgets_myKzBW": {
+          "type": "shopify:\/\/apps\/videowise-video-platform-ugc\/blocks\/videowise-page-widgets\/b48d6c0c-3e3f-4791-a9ab-a5ab7ec82f4d",
+          "settings": {
+            "videowise_embed": "<div class=\"reeview-app-widget\" id=\"reeview-app-widget_66c64b9290b5de00347cb7f4\"><\/div>"
+          }
+        }
+      },
+      "block_order": [
+        "videowise_video_platform_ugc_videowise_page_widgets_myKzBW"
+      ],
+      "settings": {
+      }
     }
   },
   "order": [
@@ -1089,6 +1105,7 @@
     "34eab03a-b1c4-4c29-9079-64f6e663d12a",
     "67aee4f6-c98c-4da7-9ea9-8fe5b50e0691",
     "shogun-below",
-    "shogun-optimizer"
+    "shogun-optimizer",
+    "17243484525c8e0fe2"
   ]
 }
