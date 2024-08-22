@@ -322,6 +322,21 @@
         "time": 5
       }
     },
+    "custom_liquid_EqP4E3": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "{% assign key = 'skio-' | append: product.id %}\n    {% if product.available %}{% render 'skio-plan-picker', product: product, key: key %}{% endif %}",
+        "layout": "t4s-container-wrap",
+        "cl_bg": "",
+        "cl_bg_gradient": "",
+        "mg": ",,50px,",
+        "pd": "",
+        "mg_tb": "",
+        "pd_tb": "",
+        "mg_mb": ",,30px,",
+        "pd_mb": ""
+      }
+    },
     "a183f929-3190-46fb-a8c2-960c8c8b7c6f": {
       "type": "image_text",
       "blocks": {
@@ -1086,21 +1101,6 @@
       ],
       "settings": {
       }
-    },
-    "custom_liquid_EqP4E3": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "{% assign key = 'skio-' | append: product.id %}\n    {% if product.available %}{% render 'skio-plan-picker', product: product, key: key %}{% endif %}",
-        "layout": "t4s-container-wrap",
-        "cl_bg": "",
-        "cl_bg_gradient": "",
-        "mg": ",,50px,",
-        "pd": "",
-        "mg_tb": "",
-        "pd_tb": "",
-        "mg_mb": ",,30px,",
-        "pd_mb": ""
-      }
     }
   },
   "order": [
@@ -1108,6 +1108,7 @@
     "shogun-above",
     "breadcrumb",
     "main",
+    "custom_liquid_EqP4E3",
     "a183f929-3190-46fb-a8c2-960c8c8b7c6f",
     "cbe86456-c461-46df-ae43-0af0d7d95359",
     "video_featured_VJ8JH3",
@@ -1121,7 +1122,6 @@
     "67aee4f6-c98c-4da7-9ea9-8fe5b50e0691",
     "shogun-below",
     "shogun-optimizer",
-    "17243484525c8e0fe2",
-    "custom_liquid_EqP4E3"
+    "17243484525c8e0fe2"
   ]
 }
