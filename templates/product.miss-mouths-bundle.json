@@ -77,6 +77,7 @@
         },
         "custom_liquid_kQdCKR": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
             "custom_liquid": "{% assign key = 'skio-' | append: product.id %}\n    {% if product.available %}{% render 'skio-plan-picker', product: product, key: key %}{% endif %}"
           }
@@ -325,7 +326,7 @@
     "custom_liquid_EqP4E3": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "{% assign key = 'skio-' | append: product.id %}\n    {% if product.available %}{% render 'skio-plan-picker', product: product, key: key %}{% endif %}",
+        "custom_liquid": "<div id=\"cbb-frequently-bought-box\"><\/div>",
         "layout": "t4s-container-wrap",
         "cl_bg": "",
         "cl_bg_gradient": "",
