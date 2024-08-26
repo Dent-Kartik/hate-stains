@@ -1539,6 +1539,22 @@
         "use_cus_css": true,
         "code_cus_css": ".SectionID p{opacity: 0.7;}"
       }
+    },
+    "17246939984ffbc62e": {
+      "type": "apps",
+      "blocks": {
+        "videowise_video_platform_ugc_videowise_page_widgets_iVBmEi": {
+          "type": "shopify:\/\/apps\/videowise-video-platform-ugc\/blocks\/videowise-page-widgets\/b48d6c0c-3e3f-4791-a9ab-a5ab7ec82f4d",
+          "settings": {
+            "videowise_embed": "<div class=\"reeview-app-widget\" id=\"reeview-app-widget_66ccba767164c50033cf8f63\"><\/div>"
+          }
+        }
+      },
+      "block_order": [
+        "videowise_video_platform_ugc_videowise_page_widgets_iVBmEi"
+      ],
+      "settings": {
+      }
     }
   },
   "order": [
@@ -1557,6 +1573,7 @@
     "video_slider_KRLUt4",
     "7f6dbb86-18ab-4678-82da-9c175a851438",
     "3a736275-0fab-4d45-9bfe-fa6b41dd8d80",
-    "52c303be-26f0-4a5d-94b6-ce0763e78370"
+    "52c303be-26f0-4a5d-94b6-ce0763e78370",
+    "17246939984ffbc62e"
   ]
 }
