@@ -357,14 +357,30 @@
       },
       "announcement-bar": {
         "type": "announcement-bar",
+        "blocks": {
+          "announcement_PJ8iGT": {
+            "type": "announcement",
+            "settings": {
+              "link": "shopify:\/\/collections\/bundle-save",
+              "content": "<p>Save up to 20% on Bundles! Shop Now!<\/p>",
+              "adding_border": true,
+              "countdown": "2023\/12\/26",
+              "txt_day": "days",
+              "dayx": 0
+            }
+          }
+        },
+        "block_order": [
+          "announcement_PJ8iGT"
+        ],
         "settings": {
           "show_announcement": true,
           "effect": "1",
           "au_time": 3.5,
           "height": 60,
-          "fontsize": 12,
+          "fontsize": 17.5,
           "tag_line": "",
-          "cl": "#ffffff",
+          "cl": "#00264d",
           "bg": "#f9f5ee",
           "bg_op": 100,
           "close": "0",
