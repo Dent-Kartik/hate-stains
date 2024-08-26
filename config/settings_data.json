@@ -70,7 +70,7 @@
     "type_qv": "2",
     "enable_quickshop": false,
     "enable_rating": false,
-    "enable_atc": true,
+    "enable_atc": false,
     "show_qty": false,
     "pr_border_style": "1",
     "enable_pr_color": true,
