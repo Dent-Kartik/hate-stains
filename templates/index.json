@@ -192,7 +192,7 @@
         "top_heading": "Bundle & Save",
         "icon_heading": "las la-gem",
         "top_subheading": "",
-        "show_btn": true,
+        "show_btn": false,
         "shop_all_btn": "Shop All",
         "shop_all_link": "shopify:\/\/collections\/bundle-save",
         "tophead_mb": 30,
