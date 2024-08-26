@@ -362,7 +362,7 @@
             "type": "announcement",
             "settings": {
               "link": "shopify:\/\/collections\/bundle-save",
-              "content": "<p>Save up to 20% on Bundles! Shop Now!<\/p>",
+              "content": "<p><strong>Save up to 20% on Bundles! Shop Now!<\/strong><\/p>",
               "adding_border": true,
               "countdown": "2023\/12\/26",
               "txt_day": "days",
