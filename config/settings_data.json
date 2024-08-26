@@ -364,7 +364,7 @@
               "link": "shopify:\/\/collections\/bundle-save",
               "content": "<p><strong>Save up to 20% on Bundles! Shop Now!<\/strong><\/p>",
               "adding_border": true,
-              "countdown": "2023\/12\/26",
+              "countdown": "",
               "txt_day": "days",
               "dayx": 0
             }
@@ -377,8 +377,8 @@
           "show_announcement": true,
           "effect": "1",
           "au_time": 3.5,
-          "height": 60,
-          "fontsize": 17.5,
+          "height": 20,
+          "fontsize": 18,
           "tag_line": "",
           "cl": "#00264d",
           "bg": "#f9f5ee",
