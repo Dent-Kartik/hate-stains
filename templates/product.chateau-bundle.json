@@ -516,21 +516,6 @@
         "code_cus_css": ""
       }
     },
-    "1702895640c62aba6a": {
-      "type": "apps",
-      "blocks": {
-        "8a680922-6c51-4cd9-8c1f-48449967dd9f": {
-          "type": "shopify:\/\/apps\/opinew-reviews\/blocks\/product-widget\/e1d8e0dc-17ff-4e4a-8a8a-1e73c8ef8676",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "8a680922-6c51-4cd9-8c1f-48449967dd9f"
-      ],
-      "settings": {
-      }
-    },
     "product-recommendations": {
       "type": "product-recommendations",
       "disabled": true,
@@ -1033,6 +1018,58 @@
       "settings": {
       }
     },
+    "hero_image_rth4Mr": {
+      "type": "hero_image",
+      "settings": {
+        "se_height": "t4s_ratioadapt",
+        "custom_dk": true,
+        "height_dk": 600,
+        "custom_tb": true,
+        "height_tb": 400,
+        "custom_mb": true,
+        "height_mb": 250,
+        "image": "shopify:\/\/shop_images\/HSN_CS_Module_2_B0BVC8M23K_US_APC_051223.png",
+        "parallax": false,
+        "image_position": "0",
+        "link_img1": "",
+        "open_link": "_blank",
+        "text_align": "center",
+        "text_align_mb": "center",
+        "content_width": "auto",
+        "cv_pos": 50,
+        "ch_pos": 50,
+        "cv_pos_mb": 50,
+        "ch_pos_mb": 50,
+        "bg_overlay": "#000",
+        "bg_opacity": 0,
+        "bg_content_cl": "#fff",
+        "bg_content_op": 0,
+        "content_pd_tb": 15,
+        "content_pd_lr": 15,
+        "content_pd_tb_mb": 10,
+        "content_pd_lr_mb": 10,
+        "border_bl": false,
+        "br_color": "#222",
+        "br_bg": "#fff",
+        "br_opacity": 50,
+        "br_style": "solid",
+        "br_pd": 20,
+        "br_pd_mb": 10,
+        "time_animation": 1,
+        "animation_delay": 40,
+        "layout": "t4s-container-fluid",
+        "cl_bg": "",
+        "cl_bg_gradient": "",
+        "mg": ",,50px,",
+        "pd": "",
+        "mg_tb": "",
+        "pd_tb": "",
+        "mg_mb": ",,30px,",
+        "pd_mb": "",
+        "use_cus_css": false,
+        "code_cus_css": ""
+      }
+    },
     "feature_columns_Y3Qxmr": {
       "type": "feature_columns",
       "blocks": {
@@ -1166,56 +1203,19 @@
         "code_cus_css": ""
       }
     },
-    "hero_image_rth4Mr": {
-      "type": "hero_image",
+    "1702895640c62aba6a": {
+      "type": "apps",
+      "blocks": {
+        "8a680922-6c51-4cd9-8c1f-48449967dd9f": {
+          "type": "shopify:\/\/apps\/opinew-reviews\/blocks\/product-widget\/e1d8e0dc-17ff-4e4a-8a8a-1e73c8ef8676",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "8a680922-6c51-4cd9-8c1f-48449967dd9f"
+      ],
       "settings": {
-        "se_height": "t4s_ratioadapt",
-        "custom_dk": true,
-        "height_dk": 600,
-        "custom_tb": true,
-        "height_tb": 400,
-        "custom_mb": true,
-        "height_mb": 250,
-        "image": "shopify:\/\/shop_images\/HSN_CS_Module_2_B0BVC8M23K_US_APC_051223.png",
-        "parallax": false,
-        "image_position": "0",
-        "link_img1": "",
-        "open_link": "_blank",
-        "text_align": "center",
-        "text_align_mb": "center",
-        "content_width": "auto",
-        "cv_pos": 50,
-        "ch_pos": 50,
-        "cv_pos_mb": 50,
-        "ch_pos_mb": 50,
-        "bg_overlay": "#000",
-        "bg_opacity": 0,
-        "bg_content_cl": "#fff",
-        "bg_content_op": 0,
-        "content_pd_tb": 15,
-        "content_pd_lr": 15,
-        "content_pd_tb_mb": 10,
-        "content_pd_lr_mb": 10,
-        "border_bl": false,
-        "br_color": "#222",
-        "br_bg": "#fff",
-        "br_opacity": 50,
-        "br_style": "solid",
-        "br_pd": 20,
-        "br_pd_mb": 10,
-        "time_animation": 1,
-        "animation_delay": 40,
-        "layout": "t4s-container-fluid",
-        "cl_bg": "",
-        "cl_bg_gradient": "",
-        "mg": ",,50px,",
-        "pd": "",
-        "mg_tb": "",
-        "pd_tb": "",
-        "mg_mb": ",,30px,",
-        "pd_mb": "",
-        "use_cus_css": false,
-        "code_cus_css": ""
       }
     }
   },
@@ -1227,7 +1227,6 @@
     "custom_liquid_EqP4E3",
     "cbe86456-c461-46df-ae43-0af0d7d95359",
     "video_featured_VJ8JH3",
-    "1702895640c62aba6a",
     "product-recommendations",
     "recently-viewed-products",
     "sidebar",
@@ -1238,7 +1237,8 @@
     "shogun-below",
     "shogun-optimizer",
     "17243484525c8e0fe2",
+    "hero_image_rth4Mr",
     "feature_columns_Y3Qxmr",
-    "hero_image_rth4Mr"
+    "1702895640c62aba6a"
   ]
 }
