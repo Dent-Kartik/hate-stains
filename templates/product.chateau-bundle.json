@@ -1030,18 +1030,140 @@
     },
     "17243484525c8e0fe2": {
       "type": "apps",
+      "settings": {
+      }
+    },
+    "feature_columns_Y3Qxmr": {
+      "type": "feature_columns",
       "blocks": {
-        "videowise_video_platform_ugc_videowise_page_widgets_myKzBW": {
-          "type": "shopify:\/\/apps\/videowise-video-platform-ugc\/blocks\/videowise-page-widgets\/b48d6c0c-3e3f-4791-a9ab-a5ab7ec82f4d",
+        "text_block_mkkx8U": {
+          "type": "text_block",
           "settings": {
-            "videowise_embed": "<div class=\"reeview-app-widget\" id=\"reeview-app-widget_66ccd00eae0892003323b61b\"><\/div>"
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/HSN_CS_Module_4a_B0BVC8M23K_US_APC_051223.png",
+            "title": "Soiled Clothing",
+            "text": "<p>Quickly spritz out fresh wine droplets that somehow made it onto your new shirt.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "open_link": "_blank",
+            "btn_icon": false,
+            "button_style": "default",
+            "btn_size": "large",
+            "btn_cl": "dark",
+            "button_effect": "fade"
+          }
+        },
+        "text_block_3z7xqR": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/HSN_CS_Module_4b_B0BVC8M23K_US_APC_051223.png",
+            "title": "Stained Linens",
+            "text": "<p>Tackle soiled towels, sheets, and placemats that might have been affected by a mishap (or two).<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "open_link": "_blank",
+            "btn_icon": false,
+            "button_style": "default",
+            "btn_size": "large",
+            "btn_cl": "dark",
+            "button_effect": "fade"
+          }
+        },
+        "text_block_qmdjxW": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/HSN_CS_Module_4c_B0BVC8M23K_US_APC_051223.png",
+            "title": "Splattered Carpets",
+            "text": "<p>Finally clean up that old wine spill with a mighty, fast-acting stain remover.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "open_link": "_blank",
+            "btn_icon": false,
+            "button_style": "default",
+            "btn_size": "large",
+            "btn_cl": "dark",
+            "button_effect": "fade"
+          }
+        },
+        "text_block_4VWRY6": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/HSN_CS_Module_4d_B0BVC8M23K_US_APC_051223.png",
+            "title": "Spotted Upholstery",
+            "text": "<p>Spray and remove that pesky red spot that appeared on the sofa after your last dinner party.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "open_link": "_blank",
+            "btn_icon": false,
+            "button_style": "default",
+            "btn_size": "large",
+            "btn_cl": "dark",
+            "button_effect": "fade"
           }
         }
       },
       "block_order": [
-        "videowise_video_platform_ugc_videowise_page_widgets_myKzBW"
+        "text_block_mkkx8U",
+        "text_block_3z7xqR",
+        "text_block_qmdjxW",
+        "text_block_4VWRY6"
       ],
       "settings": {
+        "design_heading": "1",
+        "heading_align": "t4s-text-center",
+        "top_heading": "",
+        "icon_heading": "las la-gem",
+        "top_subheading": "",
+        "tophead_mb": 30,
+        "text_align": "center",
+        "pos_text": "default",
+        "fs_title": 22,
+        "fs_text": 14,
+        "fs_title_mb": 22,
+        "fs_text_mb": 12,
+        "image_ratio": "ratioadapt",
+        "image_size": "contain",
+        "image_position": "8",
+        "img_effect": "none",
+        "b_effect": "none",
+        "layout_des": "1",
+        "space_h_item": "30",
+        "space_v_item": "30",
+        "space_h_item_mb": "10",
+        "space_v_item_mb": "10",
+        "col_dk": "4",
+        "col_tb": "2",
+        "col_mb": "2",
+        "loop": true,
+        "au_time": 0,
+        "au_hover": true,
+        "nav_btn": false,
+        "btn_vi": "hover",
+        "btn_owl": "default",
+        "btn_shape": "none",
+        "btn_cl": "dark",
+        "btn_size": "small",
+        "btn_hidden_mobile": true,
+        "nav_dot": false,
+        "dot_owl": "default",
+        "dots_cl": "dark",
+        "dots_round": true,
+        "dots_space": 10,
+        "dots_hidden_mobile": false,
+        "layout": "t4s-container-wrap",
+        "cl_bg": "",
+        "cl_bg_gradient": "",
+        "mg": ",,50px,",
+        "pd": "",
+        "mg_tb": "",
+        "pd_tb": "",
+        "mg_mb": ",,30px,",
+        "pd_mb": "",
+        "use_cus_css": false,
+        "code_cus_css": ""
       }
     }
   },
@@ -1063,6 +1185,7 @@
     "67aee4f6-c98c-4da7-9ea9-8fe5b50e0691",
     "shogun-below",
     "shogun-optimizer",
-    "17243484525c8e0fe2"
+    "17243484525c8e0fe2",
+    "feature_columns_Y3Qxmr"
   ]
 }
