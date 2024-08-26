@@ -92,7 +92,7 @@
     "use_notify_me": true,
     "share_source": "1",
     "gift_wrap_pr": "gift-wrap",
-    "login_side": true,
+    "login_side": false,
     "growave_social_login": false,
     "filter_type_search": false,
     "show_search_suggest": false,
@@ -357,26 +357,10 @@
       },
       "announcement-bar": {
         "type": "announcement-bar",
-        "blocks": {
-          "announcement_PJ8iGT": {
-            "type": "announcement",
-            "settings": {
-              "link": "shopify:\/\/collections\/bundle-save",
-              "content": "<p><strong>Save up to 20% on Bundles! Shop Now!<\/strong><\/p>",
-              "adding_border": true,
-              "countdown": "",
-              "txt_day": "days",
-              "dayx": 0
-            }
-          }
-        },
-        "block_order": [
-          "announcement_PJ8iGT"
-        ],
         "settings": {
           "show_announcement": true,
           "effect": "1",
-          "au_time": 3.5,
+          "au_time": 0,
           "height": 20,
           "fontsize": 18,
           "tag_line": "",
@@ -386,7 +370,7 @@
           "close": "0",
           "cl_btn": "#ffffff",
           "version": "1",
-          "date": 60
+          "date": 0
         }
       },
       "top-bar": {
