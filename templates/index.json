@@ -397,16 +397,16 @@
     "df216932-591b-477f-8564-1fa591ab28ac": {
       "type": "feature_columns2",
       "blocks": {
-        "template--21405986717973__df216932-591b-477f-8564-1fa591ab28ac-text_block-1": {
+        "template--21405986717973__df216932-591b-477f-8564-1fa591ab28ac-text_block-2": {
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify:\/\/shop_images\/Stain_Emergency_Products_cb0a46d7-d0f1-45dd-9043-726cce0eb86e.png",
-            "title": "The All Purpose Life Saver",
+            "image": "shopify:\/\/shop_images\/Messy_Eater_Products_36358195-c115-4959-8418-52f052d4a327.png",
+            "title": "The Parental  Essential",
             "text": "",
             "cl_text": "#0d0d0d",
             "button_label": "SHOP",
-            "button_link": "shopify:\/\/collections\/emergency-stain-rescue",
+            "button_link": "shopify:\/\/collections\/miss-mouths-messy-eater",
             "open_link": "_self",
             "btn_icon": false,
             "button_style": "default",
@@ -418,16 +418,16 @@
             "col_mb": "12"
           }
         },
-        "template--21405986717973__df216932-591b-477f-8564-1fa591ab28ac-text_block-2": {
+        "template--21405986717973__df216932-591b-477f-8564-1fa591ab28ac-text_block-1": {
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify:\/\/shop_images\/Messy_Eater_Products_36358195-c115-4959-8418-52f052d4a327.png",
-            "title": "The Parental  Essential",
+            "image": "shopify:\/\/shop_images\/Stain_Emergency_Products_cb0a46d7-d0f1-45dd-9043-726cce0eb86e.png",
+            "title": "The All Purpose Life Saver",
             "text": "",
             "cl_text": "#0d0d0d",
             "button_label": "SHOP",
-            "button_link": "shopify:\/\/collections\/miss-mouths-messy-eater",
+            "button_link": "shopify:\/\/collections\/emergency-stain-rescue",
             "open_link": "_self",
             "btn_icon": false,
             "button_style": "default",
@@ -483,8 +483,8 @@
         }
       },
       "block_order": [
-        "template--21405986717973__df216932-591b-477f-8564-1fa591ab28ac-text_block-1",
         "template--21405986717973__df216932-591b-477f-8564-1fa591ab28ac-text_block-2",
+        "template--21405986717973__df216932-591b-477f-8564-1fa591ab28ac-text_block-1",
         "template--21405986717973__df216932-591b-477f-8564-1fa591ab28ac-text_block-3",
         "text_block_jKw9Py"
       ],
