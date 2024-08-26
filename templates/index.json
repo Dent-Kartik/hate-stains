@@ -542,6 +542,42 @@
       "settings": {
       }
     },
+    "top_heading_3Whiaj": {
+      "type": "top_heading",
+      "blocks": {
+        "bl_heading_ENb9FM": {
+          "type": "bl_heading",
+          "settings": {
+            "top_heading": "Don't Take Our Word For it."
+          }
+        },
+        "bl_subheading_eYkrxF": {
+          "type": "bl_subheading",
+          "settings": {
+            "top_subheading": "See what our customers are saying"
+          }
+        }
+      },
+      "block_order": [
+        "bl_heading_ENb9FM",
+        "bl_subheading_eYkrxF"
+      ],
+      "settings": {
+        "design_heading": "1",
+        "heading_align": "t4s-text-center",
+        "layout": "t4s-container-fluid",
+        "cl_bg": "#f5f5f5",
+        "cl_bg_gradient": "",
+        "mg": "",
+        "pd": "",
+        "mg_tb": "",
+        "pd_tb": "",
+        "mg_mb": "",
+        "pd_mb": "",
+        "use_cus_css": true,
+        "code_cus_css": ".t4s-subtitle{\n     color: #6aa3cd;\n    font-family: Kalam, sans-serif;\n    font-weight: 700;\n    font-style: normal;\n}"
+      }
+    },
     "1716519899642da806": {
       "type": "apps",
       "blocks": {
@@ -1564,6 +1600,7 @@
     "8b07777e-f541-4c5e-a185-139639de18dc",
     "df216932-591b-477f-8564-1fa591ab28ac",
     "17246939984ffbc62e",
+    "top_heading_3Whiaj",
     "1716519899642da806",
     "featured_product_fY337H",
     "b8f1ee29-d27d-447d-b278-0ff05615f8e8",
